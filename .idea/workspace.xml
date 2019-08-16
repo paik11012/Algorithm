@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day04/day04_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day04/day04_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/study/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/1948.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/1948.py" afterDir="false" />
-    </list>
+    <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,45 +47,54 @@
     <session id="1560976522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="py" value="14" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3389" />
+          <entry key="py" value="3553" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="3389" />
+          <entry key="Python" value="3553" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prac.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
               <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study/1859.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -125,10 +130,11 @@
         <option value="$PROJECT_DIR$/day03/intstr.py" />
         <option value="$PROJECT_DIR$/day03/same.py" />
         <option value="$PROJECT_DIR$/prac.py" />
+        <option value="$PROJECT_DIR$/study/1859.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="535" />
     <option name="y" value="335" />
     <option name="width" value="974" />
@@ -148,6 +154,11 @@
             <path>
               <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="study" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -177,8 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prac">
-    <configuration name="day02_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1859">
+    <configuration name="1859" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/day02_1_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/1859.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,18 +296,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.day02_nasa" />
-      <item itemvalue="Python.day02_1_1" />
       <item itemvalue="Python.reverse" />
       <item itemvalue="Python.intstr" />
       <item itemvalue="Python.prac" />
+      <item itemvalue="Python.1859" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1859" />
         <item itemvalue="Python.prac" />
         <item itemvalue="Python.intstr" />
         <item itemvalue="Python.reverse" />
         <item itemvalue="Python.day02_nasa" />
-        <item itemvalue="Python.day02_1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -323,15 +334,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="535" y="335" width="974" height="644" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49705306" visible="true" weight="0.23290598" />
-      <window_info id="Structure" order="1" sideWeight="0.502947" side_tool="true" visible="true" weight="0.23290598" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4961998" visible="true" weight="0.11485775" />
+      <window_info id="Structure" order="1" sideWeight="0.5038002" side_tool="true" visible="true" weight="0.11485775" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.18421052" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.29714912" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.1834962" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.29641694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -485,6 +496,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1859.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
