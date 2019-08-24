@@ -5,13 +5,19 @@ def alphabet_count(word):
     word는 소문자로만 구성되어 있습니다.
     알파벳을 key로, 갯수를 value로 가지는 딕셔너리를 반환합니다.
     """
-    new = list(word)
-    sets = set{new}
-    return sets
+    a = list(word)
+    alpha = []
+    for al in a:
+        if al not in alpha:
+            alpha.append(al)
+    diction = {}
+    for i in alpha:
+        diction[i]=0  # 0이 포함된 딕셔너리 만들기
 
-
-
-
+        for k in a:  # h e l l o 한개씩 반화
+            if k == diction'0'  # word내의 스트링이 딕셔너리의 키와 일치한다면
+            diction[i] += 1  # 딕셔너리에 value에 1씩 더해라
+    return diction
 
 
 

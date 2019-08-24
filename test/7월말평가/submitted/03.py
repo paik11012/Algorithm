@@ -6,21 +6,11 @@ def summary(word):
     요약된 문자열을 반환합니다.
     """
 
-
 a = 'aabbaacc'
-# 몇 개 있는지 세기
-j = 1
-for i in range(len(a)-1): # 8
-    if a[i] != a[i+1]:
-        print(a[i], end = '')
-        print(j, end = '')
-        j = 1
-    else:
-        j += 1        
+print(list(a))
+print(a.count('a'))
 
-    
 
-    
 
 
 

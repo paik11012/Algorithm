@@ -5,17 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/.idea/2기 알고리즘 과목 평가 문제.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/[알고리즘 과목평가1] 칠 영역의 개수 구하기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/[알고리즘 과목평가2] 최대 사각 테두리의 합 구하기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2기 알고리즘 과목 평가 문제/[알고리즘 과목평가3] 섬의 개수 구하기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD/알고리즘 0819.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD/알고리즘 7.29.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MD/파이썬 복습 0731.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준im/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준im/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준im/2005_square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../알고리즘 0819.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../알고리즘 7.29.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_1반_홍길동/01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주.7z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../파이썬 복습 0731.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/월말평가_Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/num3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/서울_1반_홍길동/ex01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/서울_1반_홍길동/ex02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../예시문제/서울_1반_홍길동/ex03.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,81 +41,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1051662515">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="8" />
-          <entry key="txt" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="2360" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="2360" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1963776866">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="764" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="764" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snail2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="453">
               <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-              <folding>
-                <marker date="1566468396704" expanded="true" signature="317:318" ph="..." />
-              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1926_369.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -119,12 +76,13 @@
         <option value="$PROJECT_DIR$/1989palindrome.py" />
         <option value="$PROJECT_DIR$/snail.py" />
         <option value="$PROJECT_DIR$/snail2.py" />
+        <option value="$PROJECT_DIR$/1926_369.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="952" />
+    <option name="width" value="975" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -150,7 +108,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../백준im" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -279,10 +238,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14805058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1477363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -300,9 +258,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../day03/GNS1.txt" />
@@ -340,13 +295,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1926_369.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/snail2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
           <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <marker date="1566468396704" expanded="true" signature="317:318" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

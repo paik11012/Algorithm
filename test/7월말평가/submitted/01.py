@@ -12,8 +12,8 @@ def can_divide(numbers, divisor):
     for k in numbers:
         if k % divisor == 0:
             result.append(k)
-        elif result == None:
-            result = [-1]
+        elif result == []:
+            result.append(-1)
     return result
 
 
