@@ -40,5 +40,54 @@ visited = [0]
 G = [[0]*8 for _ in range(8)]
 ```
 
-## 사다리
+## 
+
+## 좋은방법 경로 찾기
+
+```python
+num = [[],[2,3],[1,4,5],[1,7],[2,6],[2,6],[4,5,7],[3,6]]
+
+visited = [False] * 8
+stack = []  # 방문할 곳
+path = []
+stack.append(1)  # 1
+
+while stack:  # stack이 0이 될 때까지
+    node = stack.pop()
+    if not visited[node]:  # visited의 값이 false라면
+        visited[node] = True
+        path.append(node)  # 1
+        stack += num[node]  # 2 3
+
+result = ''
+for i in path:
+    result += str(i)
+print(result)
+```
+
+## 1267 작업순서
+
+```
+
+```
+
+
+
+
+
+# 백트래킹
+
+뒤지다가 갈 필요 없으면 안가기
+
+
+
+
+
+
+
+## 퀵정렬
+
+가운데 기준, 가운데보다 작은건 왼쪽으로 큰건 왼쪽으로
+
+(가운데 = 피봇)
 
