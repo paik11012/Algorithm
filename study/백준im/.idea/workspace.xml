@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8991b4-7451-4ac0-9416-7b131871099f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../day02/day02_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day02/day02_1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day02/snail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../day02/snail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/magnetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d2/.idea/study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/.idea/study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../d2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d2/1946.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/1946.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d2/1946_press.py" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/1946_press.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d2/1954_snail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/1954_snail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d2/1979_where_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/1979_where_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d2/snail2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../d2/snail2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/백준im.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/백준im.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2005_square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../알고리즘 0819.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../알고리즘 7.29.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_1반_홍길동/01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주.7z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../예시문제/7월_월말평가_A반/서울_2반_백민주/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../파이썬 복습 0731.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2635_plusnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/2635_plusnum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +53,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="45799838">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1746" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1746" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../d2/snail2.py">
+        <entry file="file://$PROJECT_DIR$/2635_plusnum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="342">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -89,6 +116,7 @@
         <option value="$PROJECT_DIR$/2578.py" />
         <option value="$PROJECT_DIR$/practice.py" />
         <option value="$PROJECT_DIR$/../d2/snail2.py" />
+        <option value="$PROJECT_DIR$/2635_plusnum.py" />
       </list>
     </option>
   </component>
@@ -106,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,11 +145,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2기 알고리즘 과목 평가 문제" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,28 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.snail2">
-    <configuration name="2005_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="백준im" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2005_square.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2635_plusnum">
     <configuration name="2563_colorpapaer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준im" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,6 +199,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2578.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2635_plusnum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="백준im" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2635_plusnum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,19 +271,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2005_square" />
       <item itemvalue="Python.2563_colorpapaer" />
       <item itemvalue="Python.2578" />
       <item itemvalue="Python.snail2" />
       <item itemvalue="Python.practice" />
+      <item itemvalue="Python.2635_plusnum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2635_plusnum" />
         <item itemvalue="Python.snail2" />
         <item itemvalue="Python.practice" />
         <item itemvalue="Python.2578" />
         <item itemvalue="Python.2563_colorpapaer" />
-        <item itemvalue="Python.2005_square" />
       </list>
     </recent_temporary>
   </component>
@@ -275,13 +303,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1691254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1691254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.412595" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.412595" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26927254" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -329,8 +357,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../d2/snail2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
+        <state relative-caret-position="302">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2635_plusnum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
