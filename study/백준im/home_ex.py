@@ -13,9 +13,6 @@ XXAHXXHXX
 XXHXHXXXX
 CXCXXXXXC
 '''
-from pprint import pprint
-import sys
-sys.stdin = open('2563.txt','r')
 
 T = int(input())
 for tc in range(1, T + 1):
