@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8991b4-7451-4ac0-9416-7b131871099f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ant.py" beforeDir="false" afterPath="$PROJECT_DIR$/ant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/백준im.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/백준im.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2578.py" beforeDir="false" afterPath="$PROJECT_DIR$/2578.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/2기 알고리즘 과목 평가 문제.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/2기 알고리즘 과목 평가 문제.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월알고리즘/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/8월알고리즘/[알고리즘 과목평가2] 최대 사각 테두리의 합 구하기.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월알고리즘/[알고리즘 과목평가2] 최대 사각 테두리의 합 구하기.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,74 +18,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2056542592">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="7" />
-          <entry key="txt" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="3258" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="3258" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="45799838">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="25" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="4686" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="4686" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2578.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rowcol.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rowcol.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,7 +71,6 @@
         <option value="$PROJECT_DIR$/2005_square.py" />
         <option value="$PROJECT_DIR$/2563_colorpapaer.py" />
         <option value="$PROJECT_DIR$/2563.txt" />
-        <option value="$PROJECT_DIR$/2578.py" />
         <option value="$PROJECT_DIR$/practice.py" />
         <option value="$PROJECT_DIR$/../d2/snail2.py" />
         <option value="$PROJECT_DIR$/2635_plusnum.py" />
@@ -110,14 +84,17 @@
         <option value="$PROJECT_DIR$/home.txt" />
         <option value="$PROJECT_DIR$/home_ex.py" />
         <option value="$PROJECT_DIR$/home.py" />
+        <option value="$PROJECT_DIR$/2578.py" />
+        <option value="$PROJECT_DIR$/rowcol.txt" />
+        <option value="$PROJECT_DIR$/rowcol.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="568" />
+    <option name="x" value="567" />
     <option name="y" value="324" />
-    <option name="width" value="809" />
-    <option name="height" value="778" />
+    <option name="width" value="810" />
+    <option name="height" value="779" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -142,8 +119,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,8 +135,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.home">
-    <configuration name="1244_switch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.rowcol">
+    <configuration name="2578" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준im" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1244_switch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2578.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rowcol" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준im" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rowcol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,19 +242,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.temp" />
-      <item itemvalue="Python.1244_switch" />
       <item itemvalue="Python.ant" />
       <item itemvalue="Python.ant_teacher" />
       <item itemvalue="Python.home" />
+      <item itemvalue="Python.2578" />
+      <item itemvalue="Python.rowcol" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rowcol" />
+        <item itemvalue="Python.2578" />
         <item itemvalue="Python.home" />
         <item itemvalue="Python.ant_teacher" />
         <item itemvalue="Python.ant" />
-        <item itemvalue="Python.1244_switch" />
-        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -294,15 +272,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11169652" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12867355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40282303" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4777416" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41385436" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20426288" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -315,19 +293,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2005_square.py" />
     <entry file="file://$PROJECT_DIR$/2563.txt" />
-    <entry file="file://$PROJECT_DIR$/2578.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../d2/snail2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
@@ -449,6 +417,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2578.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rowcol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rowcol.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
