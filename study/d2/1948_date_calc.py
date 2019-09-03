@@ -1,11 +1,14 @@
+# 3
+m1, d1, m2, d2 = 5, 5, 8, 15
+date = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
-from datetime import datetime, timedelta
-import sys
-from typing import Any, Union
-sys.stdin = open('input2.txt','r')
-
-sm, sd, em, ed = map(int, input().split())
-start_day=datetime.datet~ime(2000,sm,sd,0)
-end_day=datetime.datetime(2000,em,ed,0)
-gap=end_day - start_day
-print(gap)
+if m1 == m2:
+    result = d2 - d1 + 1
+else:
+    datesum1, datesum2 = 0, 0
+    for i in range(m2):  # 7월까지 합
+        datesum2 += date[i]
+    for j in range(m1):
+        datesum1 += date[j]  # 4월까지 합
+    result = ((datesum2 + d2) - (datesum1 + d1) + 1)
+print(result)

@@ -4,7 +4,21 @@
     <bookmark url="file://$PROJECT_DIR$/snail2.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="" />
+    <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/day06_0820.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/day06_0820.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/03_linecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/03_linecheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/order.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/order.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day07_0826/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day07_0826/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day08_0827/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day08_0827/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lecture/day08_0827/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day08_0827/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1948_date_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/1948_date_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1961_rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/1961_rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준im/1244_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준im/1244_switch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,50 +29,51 @@
     <session id="-1554202990">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="6" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="35" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="6" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1549" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="6366" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1549" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="6366" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="d2" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1974_sudoku.py">
+        <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -71,6 +86,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>74</find>
+      <find>100</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -89,6 +110,18 @@
         <option value="$PROJECT_DIR$/1979_where_words.py" />
         <option value="$PROJECT_DIR$/suprac.txt" />
         <option value="$PROJECT_DIR$/1974_sudoku.py" />
+        <option value="$PROJECT_DIR$/1966.txt" />
+        <option value="$PROJECT_DIR$/1966_숫자정렬.py" />
+        <option value="$PROJECT_DIR$/1961.txt" />
+        <option value="$PROJECT_DIR$/1961_rotate.py" />
+        <option value="$PROJECT_DIR$/1959_num.py" />
+        <option value="$PROJECT_DIR$/1948_date_calc.py" />
+        <option value="$PROJECT_DIR$/1285.txt" />
+        <option value="$PROJECT_DIR$/1285_rock.py" />
+        <option value="$PROJECT_DIR$/1284_water_bill.py" />
+        <option value="$PROJECT_DIR$/1204.txt" />
+        <option value="$PROJECT_DIR$/1204_최빈수.py" />
+        <option value="$PROJECT_DIR$/1288_countsheep.py" />
       </list>
     </option>
   </component>
@@ -137,8 +170,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1974_sudoku">
-    <configuration name="1926_369" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1288_countsheep">
+    <configuration name="1204_최빈수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1926_369.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1204_최빈수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1946_press" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1284_water_bill" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1946_press.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1284_water_bill.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1974_sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1285_rock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +225,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1974_sudoku.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1285_rock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1979_where_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1288_countsheep" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1979_where_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1288_countsheep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2007_pattern_madi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1948_date_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +267,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2007_pattern_madi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1948_date_calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,19 +277,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1926_369" />
-      <item itemvalue="Python.2007_pattern_madi" />
-      <item itemvalue="Python.1946_press" />
-      <item itemvalue="Python.1979_where_words" />
-      <item itemvalue="Python.1974_sudoku" />
+      <item itemvalue="Python.1948_date_calc" />
+      <item itemvalue="Python.1288_countsheep" />
+      <item itemvalue="Python.1285_rock" />
+      <item itemvalue="Python.1284_water_bill" />
+      <item itemvalue="Python.1204_최빈수" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1974_sudoku" />
-        <item itemvalue="Python.1979_where_words" />
-        <item itemvalue="Python.1946_press" />
-        <item itemvalue="Python.2007_pattern_madi" />
-        <item itemvalue="Python.1926_369" />
+        <item itemvalue="Python.1288_countsheep" />
+        <item itemvalue="Python.1204_최빈수" />
+        <item itemvalue="Python.1284_water_bill" />
+        <item itemvalue="Python.1285_rock" />
+        <item itemvalue="Python.1948_date_calc" />
       </list>
     </recent_temporary>
   </component>
@@ -275,15 +308,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.1459431" />
-      <window_info id="Structure" order="1" sideWeight="0.50162864" side_tool="true" visible="true" weight="0.1459431" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7850163" visible="true" weight="0.1459431" />
+      <window_info id="Structure" order="1" sideWeight="0.21527778" side_tool="true" weight="0.1459431" />
+      <window_info id="Favorites" order="2" sideWeight="0.21498372" side_tool="true" weight="0.1459431" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34961998" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2062975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44842562" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -295,25 +327,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1477363" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42095914" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3534636" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -363,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1946_press.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -405,13 +411,122 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/suprac.txt" />
+    <entry file="file://$PROJECT_DIR$/1966_숫자정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1974_sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1966.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1961.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1961_rotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1970_exchange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1285_rock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1285.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="4968" selection-start-line="4" selection-start-column="4965" selection-end-line="4" selection-end-column="4968" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1284_water_bill.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1948_date_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1959_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1984.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1986_zigzag_num.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1983_jogyo_scoring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1204_최빈수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1204.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1249248731/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5106" column="8" selection-start-line="5106" selection-start-column="8" selection-end-line="5106" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

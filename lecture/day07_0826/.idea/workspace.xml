@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a24a69e4-a937-4096-95d8-4ecfe3d9b6d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/day07_0826.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day07_0826.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magnetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/magnetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day08_0827/.idea/day08_0827.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day08_0827/.idea/day08_0827.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day08_0827/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day08_0827/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../study/백준im/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/백준im/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../study/백준im/2635_plusnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/백준im/2635_plusnum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day06_0820/.idea/day06_0820.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day06_0820/.idea/day06_0820.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day06_0820/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day06_0820/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day06_0820/03_linecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day06_0820/03_linecheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day06_0820/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day06_0820/order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day06_0820/order.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../day06_0820/order.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study/d2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study/d2/1948_date_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/1948_date_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study/d2/1961_rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/1961_rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study/백준im/1244_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/백준im/1244_switch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +23,11 @@
     <session id="-192699503">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -85,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,11 +100,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../study/백준im" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day08_0827" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
