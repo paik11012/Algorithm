@@ -4,21 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/snail2.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/day06_0820.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/day06_0820.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/03_linecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/03_linecheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day06_0820/order.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day06_0820/order.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day07_0826/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day07_0826/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day08_0827/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day08_0827/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lecture/day08_0827/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/day08_0827/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1948_date_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/1948_date_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1961_rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/1961_rotate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준im/1244_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준im/1244_switch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +15,11 @@
     <session id="-1554202990">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -139,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,12 +137,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lecture" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -526,7 +512,7 @@
     <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
