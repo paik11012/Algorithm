@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/snail2.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="" />
+    <list default="true" id="718b54e8-ca54-475f-b6f3-821af7d095be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1974_sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/1974_sudoku.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,37 +18,37 @@
     <session id="-1554202990">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="35" />
-          <entry key="txt" value="13" />
+          <entry key="py" value="40" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="35" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6366" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="7337" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="6366" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="7337" />
         </counts>
       </usages-collector>
     </session>
@@ -54,17 +57,7 @@
     <favorites_list name="d2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,8 +91,6 @@
         <option value="$PROJECT_DIR$/1974_sudoku.py" />
         <option value="$PROJECT_DIR$/1966.txt" />
         <option value="$PROJECT_DIR$/1966_숫자정렬.py" />
-        <option value="$PROJECT_DIR$/1961.txt" />
-        <option value="$PROJECT_DIR$/1961_rotate.py" />
         <option value="$PROJECT_DIR$/1959_num.py" />
         <option value="$PROJECT_DIR$/1948_date_calc.py" />
         <option value="$PROJECT_DIR$/1285.txt" />
@@ -108,6 +99,8 @@
         <option value="$PROJECT_DIR$/1204.txt" />
         <option value="$PROJECT_DIR$/1204_최빈수.py" />
         <option value="$PROJECT_DIR$/1288_countsheep.py" />
+        <option value="$PROJECT_DIR$/1961.txt" />
+        <option value="$PROJECT_DIR$/1961_rotate.py" />
       </list>
     </option>
   </component>
@@ -125,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,11 +129,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lecture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lecture/day06_0820" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -156,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1288_countsheep">
+  <component name="RunManager" selected="Python.1961_rotate">
     <configuration name="1204_최빈수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1948_date_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1961_rotate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1948_date_calc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1961_rotate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,19 +256,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1948_date_calc" />
       <item itemvalue="Python.1288_countsheep" />
       <item itemvalue="Python.1285_rock" />
       <item itemvalue="Python.1284_water_bill" />
       <item itemvalue="Python.1204_최빈수" />
+      <item itemvalue="Python.1961_rotate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1961_rotate" />
         <item itemvalue="Python.1288_countsheep" />
         <item itemvalue="Python.1204_최빈수" />
         <item itemvalue="Python.1284_water_bill" />
         <item itemvalue="Python.1285_rock" />
-        <item itemvalue="Python.1948_date_calc" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +294,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44842562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.53745925" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -411,27 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1966.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1961.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1961_rotate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1970_exchange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-315" />
@@ -502,6 +474,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -509,10 +488,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1288_countsheep.py">
+    <entry file="file://$PROJECT_DIR$/1966.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="42">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1961_rotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1961.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>

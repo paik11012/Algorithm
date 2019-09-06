@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a56b977-dbd7-4861-817e-f639dd3d014d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/day06_0820.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day06_0820.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_linecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_linecheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order.txt" beforeDir="false" afterPath="$PROJECT_DIR$/order.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../study/d2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../study/d2/1948_date_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/1948_date_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study/d2/1961.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/1961.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../study/d2/1961_rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/1961_rotate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../study/백준im/1244_switch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/백준im/1244_switch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/8월모의2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study/d2/1974_sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../study/d2/1974_sudoku.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +18,11 @@
     <session id="2137422941">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -137,7 +132,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/student/development/Algorithm/lecture/day06_0820/01_paper.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day07_0826" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day05_0819" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
