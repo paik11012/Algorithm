@@ -46,9 +46,55 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1858020588">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="py" value="1171" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="1171" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day18_0923_conquer/5204_병합정렬.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
+                <marker date="1569228814325" expanded="true" signature="770:790" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,10 +137,13 @@
         <option value="$PROJECT_DIR$/day16_0910/binary1.py" />
         <option value="$PROJECT_DIR$/day16_0910/bi2.txt" />
         <option value="$PROJECT_DIR$/day16_0910/binary2.py" />
+        <option value="$PROJECT_DIR$/day18_0923_conquer/5204_병합정렬ㄹ.py" />
+        <option value="$PROJECT_DIR$/day18_0923_conquer/5204.txt" />
+        <option value="$PROJECT_DIR$/day18_0923_conquer/5204_병합정렬.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -107,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +164,20 @@
               <item name="lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="lecture" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="day18_0923_conquer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Program Files/JetBrains/PyCharm Community Edition 2018.2.3/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../study/d3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -143,8 +197,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary2">
-    <configuration name="단증" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5204_병합정렬">
+    <configuration name="5204_병합정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,32 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day12_0904" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18_0923_conquer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day12_0904/단증.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02_maze_queue,BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lecture" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08_0827_stack2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08_0827_stack2/02_maze_queue,BFS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18_0923_conquer/5204_병합정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,20 +304,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.단증" />
-      <item itemvalue="Python.02_maze_queue,BFS" />
       <item itemvalue="Python.secret" />
       <item itemvalue="Python.bank" />
       <item itemvalue="Python.binary1" />
       <item itemvalue="Python.binary2" />
+      <item itemvalue="Python.5204_병합정렬" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5204_병합정렬" />
         <item itemvalue="Python.binary2" />
         <item itemvalue="Python.binary1" />
         <item itemvalue="Python.bank" />
         <item itemvalue="Python.secret" />
-        <item itemvalue="Python.02_maze_queue,BFS" />
       </list>
     </recent_temporary>
   </component>
@@ -302,15 +334,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7937025" visible="true" weight="0.14699684" />
-      <window_info id="Structure" order="1" sideWeight="0.2062975" side_tool="true" visible="true" weight="0.14699684" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78837717" visible="true" weight="0.21367522" />
+      <window_info id="Structure" order="1" sideWeight="0.2116228" side_tool="true" visible="true" weight="0.21367522" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2379386" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48968512" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35964912" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -535,6 +567,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day18_0923_conquer/5204.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day18_0923_conquer/5204_병합정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <marker date="1569228814325" expanded="true" signature="770:790" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
