@@ -1,24 +1,21 @@
 import sys
 from pprint import pprint
-sys.stdin = open('2660.txt','r')
+sys.stdin = open('2660.txt', 'r')
 
 
 def bfs(x):
     visited = [False] * (n + 1)
     q = []
+    q.append((x, 0))
     visited[x] = True
-    for j in range(len(num[x])):
-        q.append(j)
-    cnt = 0
-    v_cnt = visited.count(True)
-    while v_cnt < 5:
-        node = q.pop()
-        if visited[node] == False:
-            for jj in range(len(num[node])):
-                q.append(jj)
-                visited[jj] = True
-            cnt += 1
-            if v_cnt == 5: break
+    while q:
+        # print(q)
+        node, cnt = q.pop(0)
+        # print(node)
+        for ii in num[node]:  # 연결된 노드 모음 [[], [2], [1, 3, 4], [2, 4, 5], [2, 3, 5], [3, 4]]
+            if not visited[ii]:  # ii중에 방문하지 않은 node가 1개라도 있으면 cnt를 +1
+                visited[ii] = True
+                q.append((ii, cnt+1))
     return cnt
 
 
@@ -37,6 +34,13 @@ for i in range(n+1):
         if box[i][j] == 1:
             num[i].append(j)
 
-
-
-print(bfs(1))
+candidate = []
+for jj in range(1, n+1):
+    candidate.append(bfs(jj))
+m = min(candidate)
+result = []
+for jjj in range(n):
+    if candidate[jjj] == m:
+        result.append(jjj+1)
+print(m, len(result))
+print(' '.join(list(map(str, result))))
