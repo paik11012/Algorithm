@@ -1,16 +1,17 @@
 import sys
+import collections
 from pprint import pprint
 sys.stdin = open('2660.txt', 'r')
 
 
 def bfs(x):
     visited = [False] * (n + 1)
-    q = []
+    q = collections.deque([])
     q.append((x, 0))
     visited[x] = True
     while q:
         # print(q)
-        node, cnt = q.pop(0)
+        node, cnt = q.popleft()
         # print(node)
         for ii in num[node]:  # 연결된 노드 모음 [[], [2], [1, 3, 4], [2, 4, 5], [2, 3, 5], [3, 4]]
             if not visited[ii]:  # ii중에 방문하지 않은 node가 1개라도 있으면 cnt를 +1

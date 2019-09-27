@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ede914ca-0682-4ea9-b2bb-0e75f65307a7" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="ede914ca-0682-4ea9-b2bb-0e75f65307a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/백준A/BFS, DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준A/BFS, DFS.py" afterDir="false" />
+    </list>
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="1063931100">
       <usages-collector id="statistics.lifecycle.project">
@@ -73,6 +80,40 @@
         </entry>
       </file>
     </leaf>
+=======
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6870938">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/백준A/보물섬.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="e#0#6#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/백준A/보물섬.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +122,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -88,19 +134,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/A보충/pipes.py" />
-        <option value="$PROJECT_DIR$/백준A/BFS, DFS.py" />
         <option value="$PROJECT_DIR$/백준A/2660_회장뽑기.py" />
         <option value="$PROJECT_DIR$/백준A/pipes.py" />
         <option value="$PROJECT_DIR$/백준A/17070.txt" />
         <option value="$PROJECT_DIR$/백준A/17070_pipes.py" />
         <option value="$PROJECT_DIR$/d4/1486.txt" />
         <option value="$PROJECT_DIR$/d4/1486_장훈이선반.py" />
+        <option value="$PROJECT_DIR$/백준A/BFS, DFS.py" />
+        <option value="$PROJECT_DIR$/백준A/danji.py" />
+        <option value="$PROJECT_DIR$/백준A/회장뽑기.py" />
+        <option value="$PROJECT_DIR$/백준A/보물섬.txt" />
+        <option value="$PROJECT_DIR$/백준A/보물섬.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="90" />
-    <option name="y" value="2" />
     <option name="width" value="1191" />
     <option name="height" value="1047" />
   </component>
@@ -119,6 +168,14 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="백준A" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
           </expand>
           <select />
         </subPane>
@@ -127,7 +184,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -148,29 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1486_장훈이선반">
-    <configuration name="1486_장훈이선반" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4/1486_장훈이선반.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17070_pipes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.보물섬">
+    <configuration name="회장뽑기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +223,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준A/17070_pipes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준A/회장뽑기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2660_회장뽑기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="보물섬" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +244,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준A/2660_회장뽑기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준A/보물섬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2667_danji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준A/2667_danji.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,18 +295,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="danji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준A/danji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2660_회장뽑기" />
+      <item itemvalue="Python.danji" />
+      <item itemvalue="Python.2667_danji" />
       <item itemvalue="Python.BFS, DFS" />
-      <item itemvalue="Python.17070_pipes" />
-      <item itemvalue="Python.1486_장훈이선반" />
+      <item itemvalue="Python.회장뽑기" />
+      <item itemvalue="Python.보물섬" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1486_장훈이선반" />
-        <item itemvalue="Python.17070_pipes" />
-        <item itemvalue="Python.2660_회장뽑기" />
+        <item itemvalue="Python.보물섬" />
+        <item itemvalue="Python.회장뽑기" />
+        <item itemvalue="Python.danji" />
         <item itemvalue="Python.BFS, DFS" />
+        <item itemvalue="Python.2667_danji" />
       </list>
     </recent_temporary>
   </component>
@@ -262,15 +347,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09905163" />
+=======
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14455917" />
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38327906" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5385451" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44227353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1811723" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,37 +374,22 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/백준A/2667_danji.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준A/2660_회장뽑기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준A/2667.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준A/BFS, DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/백준A/17070.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -321,30 +397,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d4/1486.txt">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="146">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준A/17070_pipes.py">
+    <entry file="file://C:/Python/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1569314257495" expanded="true" signature="91:185" ph="..." />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d4/1486_장훈이선반.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state>
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d4/1486.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/17135_캐슬디펜스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+<<<<<<< HEAD
+          <caret lean-forward="true" selection-end-line="2" selection-end-column="33" />
+=======
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/17070_pipes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/2667.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/2660.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="3" lean-forward="true" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/회장뽑기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/보물섬.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/danji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/2667_danji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/BFS, DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="225">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+=======
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/2660_회장뽑기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+>>>>>>> 1db230524b3de6d306aae3ea677119caa0c529e8
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준A/보물섬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
