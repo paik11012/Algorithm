@@ -3,49 +3,35 @@ from pprint import pprint
 sys.stdin = open('17136.txt', 'r')
 
 
-def dfs(papers, x, y, cnt):
-    big = 0
-    if papers[0] < 1 or papers[1] < 1 or papers[2] < 1 or papers[3] < 1 or papers[4] < 1:
-        big += cnt
-        return big  # 빠져나가는 조건
-    for i in range(10):
-        for j in range(10):
-            if box[i][j] == 1:  # dfs시작
-                x = i
-                y = j
+def change():
+    for k in range(6):  # 빠져나오는 조건 설정 종이가 모자라면 빠져나오기
+        if papers[k] < 0:
+            return
+    else:
+        for x in range(10):
+            for y in range(10):
+                if box[x][y] == 1:
+                    for paper in range(5, 0, -1):
+                        if x + paper < 10 and y + paper < 10:  # 범위를 벗어나지 않는다면
+                            flag = True  # 범위 내 모든 수가 1인지 확인하는 flag 한 개라도 벗어나면 false
+                            for p in range(paper):  # 5 = 0 1 2 3 4
+                                for q in range(paper):
+                                    if box[x+p][y+q] != 1:
+                                        flag = False
+                            if flag:  # flag가 True이면
+                                for p in range(paper):  # 5 = 0 1 2 3 4
+                                    for q in range(paper):
+                                        box[x+p][y+q] = 0  # 방문 처리
+                                papers[paper] -= 1
 
-
-
-
-
-    # 1장 설정
-    if x < n and y < n and visited[x][y] == 0 and box[x][y] == 1:  # 범위 안이고 방문하지 않았으면
-        print(x, y)
-        visited[x][y] = 1  # visited 표시
-        papers[0] -= 1
-        # print(x, y)
-        dfs(x, y+1, cnt + 1)  # 다음 1로 이동
-    # 2장 설정
-    if x+1 < n and y+1 < n: # 범위 내라면
-        for p in range(2):  # 0 1
-            for q in range(2): # 네 칸을 확인하면서
-                if box[x+p][y+q] == 1 and visited[x+p][y+q] == 0:
-                    visited[x+p][y+q] = 1 # visited 표시
-                    papers[1] -= 1
-                    dfs(x, y+2, cnt+1)
-
-    # # 3장
-    # if x+2 < n and y+2 < n:
-    #     for p in range(3):
-    #         for q in range(3): # 네 칸을 확인하면서
-    #             if box[x+p][y+q] == 1 and visited[x+p][y+q] == 0:
-    #                 visited[x+p][y+q] = 1 # visited 표시
-    #                 papers[2] -= 1
-    #                 dfs(x, y+3, cnt+1)
 
 n = 10
 box = []
+papers = [0, 5, 5, 5, 5, 5]
 for _ in range(10):
     box.append(list(map(int, input().split())))
 visited = [[0] * 10 for _ in range(10)]
-dfs([0, 5, 5, 5, 5, 5], 0, 0, 0)
+change()
+
+pprint(box)
+print(papers)
