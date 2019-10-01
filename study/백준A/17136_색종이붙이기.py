@@ -8,10 +8,10 @@ def change():
         if papers[k] < 0:
             return
     else:
-        for x in range(10):
-            for y in range(10):
-                if box[x][y] == 1:
-                    for paper in range(5, 0, -1):
+        for paper in range(5, 0, -1):
+            for x in range(10):
+                for y in range(10):
+                    if box[x][y] == 1:
                         if x + paper < 10 and y + paper < 10:  # 범위를 벗어나지 않는다면
                             flag = True  # 범위 내 모든 수가 1인지 확인하는 flag 한 개라도 벗어나면 false
                             for p in range(paper):  # 5 = 0 1 2 3 4
@@ -23,7 +23,8 @@ def change():
                                     for q in range(paper):
                                         box[x+p][y+q] = 0  # 방문 처리
                                 papers[paper] -= 1
-
+                                # 재귀를 돌린 후 원상복귀 시킨다
+# papers, 횟수
 
 n = 10
 box = []
@@ -33,5 +34,11 @@ for _ in range(10):
 visited = [[0] * 10 for _ in range(10)]
 change()
 
-pprint(box)
-print(papers)
+result = 0
+for p in range(1, 6):
+    if papers[p] < 0:
+        result = -1
+    else:
+        result += (5-papers[p])
+print(result)
+
