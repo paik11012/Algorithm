@@ -13,7 +13,7 @@ def change(papers, cnt, cnt_00):
     if cnt_00 < 0: return  # 끝나는 조건 모든 1이 visit하면 끝
     for x in range(10):
         for y in range(10):
-            if box[x][y] == 1:
+            if box[x][y]:
                 for paper in range(5, 0, -1):  # 5 4 3 2 1
                     if x + paper < 11 and y + paper < 11:  # 범위를 벗어나지 않는다면  # 5, 0에서 시작
                         flag = True  # 범위 내 모든 수가 1인지 확인하는 flag 한 개라도 벗어나면 false
@@ -54,7 +54,7 @@ for x in range(10):
     for y in range(10):
         if box[x][y] == 1:
             cnt_0 += 1
-change([0, 5, 5, 5, 5, 5], 0, cnt_0)
+change([0, 5, 5, 5, 5, 5], 0)
 print(minn)
 
 
