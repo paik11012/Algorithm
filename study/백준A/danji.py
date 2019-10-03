@@ -12,15 +12,15 @@ def out_idx(y, x):
 
 def bfs(x, y):
     global cnt
-    box[x][y] = 2
+    box[x][y] = 2  # 방문처리
     cnt = 1
-    q.append((x,y))
+    q.append((x, y))
     while q:
         xi, yi = q.popleft()
         for i in range(4):
             if not out_idx(xi+dx[i], yi+dy[i]) and box[xi+dx[i]][yi+dy[i]] == 1:
-                if box[xi+dx[i]][yi+dy[i]] == 1:
-                    q.append((xi+dx[i], yi+dy[i]))
+                if box[xi+dx[i]][yi+dy[i]] == 1:  # 단지이면
+                    q.append((xi+dx[i], yi+dy[i]))  # 큐에 더해라
                     box[xi+dx[i]][yi+dy[i]] = 2  # 방문처리
                     cnt += 1
     return cnt
