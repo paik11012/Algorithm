@@ -1,6 +1,5 @@
 def per(idx):
     global per_list
-
     if idx >= n:
         arr2 = [0, 0, 0, 0, 0]
         for j in range(5):

@@ -21,6 +21,8 @@ def per(idx):
                 visited[i] = False
 
 
+
+
 def change():
     global minn, per_list
     copied = [[0] * 10 for _ in range(10)]  # box의 카피본 만들고
@@ -36,11 +38,13 @@ def change():
                 for y in range(10):
                 # r을 불러오는 것이 이 자리에 있으면, 한 자리에서 54321을 보게 된다
                     if box[x][y] == 1:  # box에 무엇인가 들어있으면
-                     # visited = copy.deepcopy(box)
-                        if x + r < 10 and y + r < 10:  # 범위를 벗어나지 않는다면
+                        if x + r < 10 and y + r < 10:  # 범위를 벗어나지 않는다면 r은 1부터 5, x y 는 0부터 9까지
+                            print(x+r, y+r)
                             flag = True  # 범위 내 모든 수가 1인지 확인하는 flag 한 개라도 벗어나면 false
                             # 색종이의 갯수 확인
                             if papers[r] > 0:
+                                # print(papers, per_list[kk], cnt)
+                                # pprint(copied)
                                 for p in range(r):  # 5 = 0 1 2 3 4
                                     for q in range(r):
                                         if copied[x + p][y + q] != 1:
@@ -54,9 +58,9 @@ def change():
         remain_one = False  # 1이 남아있지 않는다
         for xx in range(10):  # 1이 남아있으면 끝
             for yy in range(10):
-                if copied[x][y] == 1:
-                    remain_one= True  # 1이 남아있으면
-        if not remain_one:  # false일 떄만 비교
+                if copied[xx][yy] == 1:
+                    remain_one= True  # 1이 남았다
+        if not remain_one:  # false일 때만 비교, 1이 없으면
             # -1이면 무조건 넣기
             # -1이 아니면 비교하기
             if minn == -1:
@@ -66,7 +70,6 @@ def change():
                     minn = cnt
 
 
-n = 10
 minn = -1
 box = []
 for _ in range(10):
@@ -74,6 +77,8 @@ for _ in range(10):
 per_list = []
 arr = [0] * 5
 visited = [False] * 6
+n = 5
 per(0)
+# print(per_list)
 change()
 print(minn)
