@@ -21,8 +21,6 @@ def per(idx):
                 visited[i] = False
 
 
-
-
 def change():
     global minn, per_list
     copied = [[0] * 10 for _ in range(10)]  # box의 카피본 만들고
@@ -36,15 +34,15 @@ def change():
         for r in per_list[kk]:  # kk= 5 4 3 2 1 부터 1 2 3 4 5
             for x in range(10):
                 for y in range(10):
-                # r을 불러오는 것이 이 자리에 있으면, 한 자리에서 54321을 보게 된다
+                    # r을 불러오는 것이 이 자리에 있으면, 한 자리에서 54321을 보게 된다
+                    # r은 색종이의 크기
                     if box[x][y] == 1:  # box에 무엇인가 들어있으면
-                        if x + r < 10 and y + r < 10:  # 범위를 벗어나지 않는다면 r은 1부터 5, x y 는 0부터 9까지
-                            print(x+r, y+r)
+                        if x + r < 11 and y + r < 11:  # 범위를 벗어나지 않는다면 r은 1부터 5, x y 는 0부터 9까지
                             flag = True  # 범위 내 모든 수가 1인지 확인하는 flag 한 개라도 벗어나면 false
                             # 색종이의 갯수 확인
                             if papers[r] > 0:
-                                # print(papers, per_list[kk], cnt)
-                                # pprint(copied)
+                                print(papers, per_list[kk], cnt)
+                                pprint(copied)
                                 for p in range(r):  # 5 = 0 1 2 3 4
                                     for q in range(r):
                                         if copied[x + p][y + q] != 1:
@@ -55,6 +53,7 @@ def change():
                                             copied[x + p][y + q] = 0  # 방문 처리
                                     papers[r] -= 1  # 그 크기의 종이 빼주기
                                     cnt += 1
+
         remain_one = False  # 1이 남아있지 않는다
         for xx in range(10):  # 1이 남아있으면 끝
             for yy in range(10):
@@ -65,9 +64,12 @@ def change():
             # -1이 아니면 비교하기
             if minn == -1:
                 minn = cnt
+                print(papers, cnt)
             else:
                 if cnt < minn:  # 최소값 갱신하며 저장하기
                     minn = cnt
+                      # 처음 저장하고 그 뒤에 안 들어가는중
+
 
 
 minn = -1
@@ -82,3 +84,4 @@ per(0)
 # print(per_list)
 change()
 print(minn)
+
