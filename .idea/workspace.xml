@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="" />
+    <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/개념/quicksort_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/개념/quicksort_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/백준im/2304.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준im/2304.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/백준im/2304_container.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준im/2304_container.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,50 +17,40 @@
     <session id="1787472632">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="19" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="18" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8570" />
-          <entry key="txt" value="48" />
+          <entry key="py" value="8827" />
+          <entry key="txt" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="48" />
-          <entry key="Python" value="8570" />
+          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="Python" value="8827" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study/개념/quicksort_n.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,13 +119,13 @@
         <option value="$PROJECT_DIR$/study/백준im/2116.txt" />
         <option value="$PROJECT_DIR$/study/백준im/temp.py" />
         <option value="$PROJECT_DIR$/study/백준im/2116_주사위쌓기.py" />
+        <option value="$PROJECT_DIR$/study/개념/quicksort_n.py" />
         <option value="$PROJECT_DIR$/study/백준im/2304.txt" />
         <option value="$PROJECT_DIR$/study/백준im/2304_container.py" />
-        <option value="$PROJECT_DIR$/study/개념/quicksort_n.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -143,7 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -160,12 +154,13 @@
               <item name="Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="study" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="개념" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="백준im" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quicksort_n">
+  <component name="RunManager" selected="Python.2304_container">
     <configuration name="2116_주사위쌓기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,8 +328,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quicksort_n" />
         <item itemvalue="Python.2304_container" />
+        <item itemvalue="Python.quicksort_n" />
         <item itemvalue="Python.2116_주사위쌓기" />
         <item itemvalue="Python.temp" />
         <item itemvalue="Python.quicksort" />
@@ -364,10 +359,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78763866" visible="true" weight="0.14541623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78763866" visible="true" weight="0.14699684" />
       <window_info id="Structure" order="1" sideWeight="0.21236134" side_tool="true" weight="0.15245202" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,13 +371,13 @@
       <window_info anchor="bottom" id="TODO" order="4" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.090094835" side_tool="true" visible="true" weight="0.30510315" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.09114858" side_tool="true" visible="true" weight="0.29533115" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.48481563" />
-      <window_info active="true" anchor="bottom" id="Debug" order="9" sideWeight="0.90990514" visible="true" weight="0.30510315" />
+      <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.90885144" weight="0.29533115" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" sideWeight="0.49893162" weight="0.41684434" />
+      <window_info anchor="right" id="Run" order="3" sideWeight="0.49893162" weight="0.4216418" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78763866" visible="true" weight="0.08848614" />
@@ -726,10 +720,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/study/개념/quicksort_n.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study/백준im/2304_container.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        <state relative-caret-position="400">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -737,13 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study/개념/quicksort_n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>

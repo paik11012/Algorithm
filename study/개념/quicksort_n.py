@@ -17,6 +17,7 @@ def quicksort(arr, start, end):  # arr의 start부터 end까지 정렬하는 함
         getboth(arr, pivot, myleft, myright)  # 큰거
 
         # 합치기
+        print(arr)
         for k in range(len(myleft)-1):
             arr[start+k] = myleft[k]
         arr[len(myleft)] = pivot
