@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/개념/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/개념/quicksort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/백준A/2573.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준A/2573.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/백준A/2573_빙산.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준A/2573_빙산.py" afterDir="false" />
     </list>
@@ -194,6 +196,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.5208_전기버스2" />
+      <item itemvalue="Python.2116_주사위쌓기" />
+      <item itemvalue="Python.2304_container" />
+      <item itemvalue="Python.2573_빙산" />
+      <item itemvalue="Python.2667_danji" />
+      <item itemvalue="Python.quicksort_n" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.2573_빙산" />
