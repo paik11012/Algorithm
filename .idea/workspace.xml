@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/백준A/2573.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준A/2573.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/백준A/2573_빙산.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준A/2573_빙산.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Script/01" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -194,21 +194,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.5208_전기버스2" />
-      <item itemvalue="Python.2116_주사위쌓기" />
-      <item itemvalue="Python.2304_container" />
-      <item itemvalue="Python.quicksort_n" />
-      <item itemvalue="Python.2573_빙산" />
-      <item itemvalue="Python.2667_danji" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.2573_빙산" />
-        <item itemvalue="Python.2667_danji" />
-        <item itemvalue="Python.2304_container" />
-        <item itemvalue="Python.quicksort_n" />
-        <item itemvalue="Python.2116_주사위쌓기" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564382143675</updated>
-      <workItem from="1572248473155" duration="4095000" />
+      <workItem from="1572248473155" duration="4533000" />
+      <workItem from="1572308300895" duration="126000" />
+      <workItem from="1572309771777" duration="75000" />
+      <workItem from="1572310562246" duration="3000" />
+      <workItem from="1572320566834" duration="4393000" />
+      <workItem from="1572340093362" duration="4079000" />
     </task>
     <servers />
   </component>
@@ -243,31 +236,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="per()" language="Python" />
-        <watch expression="per(0)" language="Python" />
+        <watch expression="per()" />
+        <watch expression="per(0)" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$2573_.coverage" NAME="2573_빙산 Coverage Results" MODIFIED="1572252880006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/백준A" />
+    <SUITE FILE_PATH="coverage/Algorithm$2573_.coverage" NAME="2573_빙산 Coverage Results" MODIFIED="1572344355160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/백준A" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
