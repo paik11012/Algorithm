@@ -4,5 +4,4 @@ def com(n, m):
         y = i % m
         print((x, y))
 
-
-com(2, 4)
+com(2, 5)

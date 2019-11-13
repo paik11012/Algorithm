@@ -21,6 +21,5 @@ for _ in range(city):
     box.append(list(map(int, input().split())))
 for i in range(city):
     for j in range(city):
-        if box[i][j] == 1:
-            brute_force(i, j, 0)
+        print(box[i][j])
 
