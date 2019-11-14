@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1441ec9-2032-4993-aa24-074d1a6529d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/SW Test/2117_홈방범서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/SW Test/2117_홈방범서비스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/개념/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/개념/permutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/개념/순열조합.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/개념/순열조합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/백준A/2573_빙산.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준A/2573_빙산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/백준A/2636_치즈.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/백준A/2636_치즈.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,51 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2468_안전영역">
-    <configuration name="등산로 조성" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/백준A" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/백준A/등산로 조성.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="순열조합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/개념" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/개념/순열조합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2573_빙산">
     <configuration name="2117_홈방범서비스" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +92,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/백준A/2468_안전영역.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2573_빙산" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/백준A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/백준A/2573_빙산.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2636_치즈" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/백준A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/백준A/2636_치즈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,19 +190,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.5208_전기버스2" />
-      <item itemvalue="Python.등산로 조성" />
-      <item itemvalue="Python.순열조합" />
       <item itemvalue="Python.permutation" />
       <item itemvalue="Python.2117_홈방범서비스" />
       <item itemvalue="Python.2468_안전영역" />
+      <item itemvalue="Python.2636_치즈" />
+      <item itemvalue="Python.2573_빙산" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2573_빙산" />
+        <item itemvalue="Python.2636_치즈" />
         <item itemvalue="Python.2468_안전영역" />
         <item itemvalue="Python.2117_홈방범서비스" />
         <item itemvalue="Python.permutation" />
-        <item itemvalue="Python.순열조합" />
-        <item itemvalue="Python.등산로 조성" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +231,7 @@
       <workItem from="1573533246896" duration="2000" />
       <workItem from="1573623501644" duration="180000" />
       <workItem from="1573627627313" duration="5464000" />
+      <workItem from="1573691962458" duration="2746000" />
     </task>
     <servers />
   </component>
@@ -272,8 +269,9 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$2573_.coverage" NAME="2573_빙산 Coverage Results" MODIFIED="1572401064265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/백준A" />
+    <SUITE FILE_PATH="coverage/Algorithm$2636_.coverage" NAME="2636_치즈 Coverage Results" MODIFIED="1573692549222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/백준A" />
     <SUITE FILE_PATH="coverage/Algorithm$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1573623628431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/개념" />
+    <SUITE FILE_PATH="coverage/Algorithm$2573_.coverage" NAME="2573_빙산 Coverage Results" MODIFIED="1573694688980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/백준A" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="순열조합 Coverage Results" MODIFIED="1573623533644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/개념" />
     <SUITE FILE_PATH="coverage/Algorithm$2117_.coverage" NAME="2117_홈방범서비스 Coverage Results" MODIFIED="1573627732728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/SW Test" />
     <SUITE FILE_PATH="coverage/Algorithm$2468_.coverage" NAME="2468_안전영역 Coverage Results" MODIFIED="1573633011403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/백준A" />

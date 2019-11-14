@@ -20,7 +20,7 @@ def bfs(x, y, cnt):
                     q.append((xii, yii, cntn + 1))
 
 
-a, b = map(int, input().split())
+a, b = map(int, input().split())  # 13 12
 box = []
 for _ in range(a):
     box.append(list(map(int, input().split())))
