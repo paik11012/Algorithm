@@ -16,4 +16,4 @@ def solution(prices):
 
 prices = [ 1, 2, 3, 2, 3, 1 ]
 print(solution(prices))
-# [ 5, 4, 1, 2, 1, 0 ]
+# [ 5, 4, 1, 2, 1, 0 ] .
