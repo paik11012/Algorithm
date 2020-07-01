@@ -4,21 +4,23 @@
 완주한 선수들의 이름이 담긴 배열 completion이 주어질 때, 
 완주하지 못한 선수의 이름을 return 하도록 solution 함수를 작성해주세요.'''
 
+from collections import Counter
 
 def solution(participant, completion):
-    participant.sort()
-    completion.sort()
-    answer = ''
-    copy = participant
-    for co in completion:
-        if co in copy:
-            copy.remove(co)
-        else: 
-            break
-    answer += copy[0]
-    return answer
+    a = Counter(participant) - Counter(completion)
+    # Counter({'mislav': 2, 'stanko': 1, 'ana': 1})
+    return list(a.keys())[0]
 
 
 p = ["mislav", "stanko", "mislav", "ana"]
 c = ["stanko", "ana", "mislav"]
 print(solution(p, c))
+
+
+# def solution(participant, completion):
+#     participant.sort()
+#     completion.sort()
+#     for p, c in zip(participant, completion):
+#         if p != c:
+#             return p
+#     return participant[-1]
