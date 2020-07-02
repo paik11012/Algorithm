@@ -8,14 +8,8 @@ from collections import Counter
 
 def solution(participant, completion):
     a = Counter(participant) - Counter(completion)
-    # Counter({'mislav': 2, 'stanko': 1, 'ana': 1})
+    # Counter({'mislav': 2, 'stanko': 1, 'ana': 1}) counter객체
     return list(a.keys())[0]
-
-
-p = ["mislav", "stanko", "mislav", "ana"]
-c = ["stanko", "ana", "mislav"]
-print(solution(p, c))
-
 
 # def solution(participant, completion):
 #     participant.sort()
@@ -23,4 +17,23 @@ print(solution(p, c))
 #     for p, c in zip(participant, completion):
 #         if p != c:
 #             return p
-#     return participant[-1]
+#     return participant[-1] # 어차피 다르면 앞에서 걸려버림
+
+# hash
+# def solution(participant, completion):
+#     answer = ''
+#     temp = 0
+#     dic = {}
+#     for part in participant:
+#         dic[hash(part)] = part
+#         temp += int(hash(part))
+#     for com in completion:
+#         temp -= hash(com)
+#     answer = dic[temp]
+#     return answer
+
+p = ["mislav", "stanko", "mislav", "ana"]
+c = ["stanko", "ana", "mislav"]
+print(solution(p, c))
+
+
