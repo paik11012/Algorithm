@@ -1,5 +1,5 @@
 def solution(a, b):
-    weekday = ["THU","FRI","SAT","SUN","MON","TUE","WED"]
+    weekday = ["THU","FRI","SAT","SUN","MON","TUE","WED"] # 나머지가 0부터 시작하므로
     month=[31,29,31,30,31,30,31,31,30,31,30,31] 
     days = 0
     for i in range(a-1):
