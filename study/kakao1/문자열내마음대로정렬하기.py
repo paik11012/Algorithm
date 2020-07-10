@@ -11,6 +11,7 @@ def solution(strings, n):
 '''
 sorted는 비교하기 전에 각 리스트 요소에 대해 호출할 함수를 지정하는 key 매개 변수를 가지고 있습니다.
 x[n]이 그 key가 되겠다
+https://docs.python.org/ko/3/howto/sorting.html
 '''
 
 # def solution(strings, n):
