@@ -8,3 +8,14 @@ def solution(heights):
                 break
         answer.append(temp)  # 0이 되더라도 0을 기록
     return answer
+
+# 비슷한데 더 단순
+# def solution(heights):
+#     h = len(heights)
+#     ans = [0] * h
+#     for i in range(h-1, 0, -1):
+#         for j in range(i-1, -1, -1):
+#             if heights[i] < heights[j]:
+#                 ans[i] = j+1
+#                 break
+#     return ans
