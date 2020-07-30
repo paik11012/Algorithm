@@ -2,8 +2,6 @@
 진입 가능하면 진입, 진입하면 1칸씩 이동
 더 진입 가능하면 진입하고 아니면 기다리기'''
 
-from collections import deque
-
 def solution(bridge_length, weight, truck_weights):  # truck weight 처리
     answer = 0
     bridge_on = [0] * bridge_length
@@ -16,10 +14,12 @@ def solution(bridge_length, weight, truck_weights):  # truck weight 처리
             truck = truck_weights.pop(0)  # 올릴 트럭 무게
             bridge_on.append(truck)
             now_weight += truck
-        else: 
+        else: # 못 올리면 빈것 넣기
             bridge_on.append(0)
+    # print(bridge_on, answer)
     while now_weight > 0:  # 도로에 남은것 처리
         answer += 1
+        print(bridge_on)
         bridge_out = bridge_on.pop(0)
         now_weight -= bridge_out
     return answer
