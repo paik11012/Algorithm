@@ -3,7 +3,7 @@ from collections import deque
 def solution(progresses, speeds):
     answer = []
     days = deque()
-    for i in range(len(progresses)):
+    for i in range(len(progresses)):  # 몫
         if (100-progresses[i]) % speeds[i] == 0:
             days.append((100-progresses[i])//speeds[i])
         else: days.append(((100-progresses[i])//speeds[i])+1)
