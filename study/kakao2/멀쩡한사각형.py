@@ -7,15 +7,14 @@ def solution(w,h):
     minn = min(w, h)
     yaksu = []
     big = 0  # 최대공약수
-    for i in range(1, minn//2):
+    for i in range(1, minn):
         if w % (i+1) == 0:
             yaksu.append(i+1)
-    for j in range(len(yaksu)-1, -1, -1):  #  제일 큰 수부터 본다 1 0
+    for j in range(len(yaksu)-1, -1, -1):  #  제일 큰 수부터 거꾸로 본다
         if h % yaksu[j] == 0:
             big = yaksu[j]
             break
-    print(big)
-    if yaksu == []:  # 약수가 없을 경우 그냥 계산
+    if  big == 0:  # 약수가 없을 경우 그냥 계산
         answer = w * h - (w + h -1)
         return answer
     else: 
@@ -27,4 +26,4 @@ def solution(w,h):
         # 전체 - 패턴넣을 곳 + 멀쩡한 애들
         return answer
 
-print(solution(6, 9))
+print(solution(6,24))
