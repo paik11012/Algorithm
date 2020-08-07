@@ -7,8 +7,9 @@ def solution(skill, skill_trees):
     skill_list = []  # ['C', 'CB', 'CBD']
     for s in range(len(skill)):
         skill_list.append(skill[0:s+1])
-    temp = ''
+    
     for one_skill in skill_trees:  # BACDE
+        temp = ''
         for o in one_skill:
             if o in skill:  # 해당하는 것만 남기기
                 temp+=o
@@ -17,8 +18,7 @@ def solution(skill, skill_trees):
                 answer += 1
         # print(temp)
         if temp == '': answer += 1  # 해당하는게 하나도 없는 스킬도 가능하다 
-        temp = ''  # 초기화
     return answer
 
 
-print(solution("CB",["BACDE", "CBADF", "AECB", "BDA", "D"]))  # 답3
+print(solution("CBD",["BACDE", "CBADF", "AECB", "BDA", "E"]))  # 답3
