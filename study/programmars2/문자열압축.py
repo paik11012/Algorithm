@@ -7,7 +7,7 @@ def solution(s):
     temp = ''
     for i in range(1, len(s)//2+1):
         repeat = s[:i]  #  문자열 압축할 개수
-        print(repeat)
+        print(repeat, len(repeat))
     # for dump in yaksu:  # 1 2 4
     #     repeat = s[:dump]  # 반복가능한 문자열
     #     # 만약 이 repeat이 끝까지 반복된다면
