@@ -6,7 +6,7 @@ def per(idx):
             arr2[j] = arr[j]
         per_list.append(arr2)
     else:
-        for i in range(4, 0, -1):
+        for i in range(1, 5):
             if not visited[i]:
                 visited[i] = True
                 arr[idx] = i

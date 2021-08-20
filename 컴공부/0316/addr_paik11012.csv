@@ -1,0 +1,1001 @@
+도로명코드,도로명,도로명로마자,읍면동일련번호,시도명,시도명로마자,시군구명,시군구명로마자,읍면동명,읍면동명로마자,읍면동구분,읍면동코드
+411111000022,영동고속도로,"Yeongdong Expressway",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411111000022,영동고속도로,"Yeongdong Expressway",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411112012001,창룡대로,Changnyong-daero,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411112012001,창룡대로,Changnyong-daero,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411112012008,경수대로,Gyeongsu-daero,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411112012008,경수대로,Gyeongsu-daero,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411112012008,경수대로,Gyeongsu-daero,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411112012008,경수대로,Gyeongsu-daero,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411112012008,경수대로,Gyeongsu-daero,04,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411112012008,경수대로,Gyeongsu-daero,05,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411112012008,경수대로,Gyeongsu-daero,06,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411113012001,덕영대로,Deogyeong-daero,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113012001,덕영대로,Deogyeong-daero,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113012001,덕영대로,Deogyeong-daero,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411113012001,덕영대로,Deogyeong-daero,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113012005,서부로,Seobu-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113012005,서부로,Seobu-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411113012005,서부로,Seobu-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411113012005,서부로,Seobu-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113012006,정조로,Jeongjo-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113012006,정조로,Jeongjo-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113012006,정조로,Jeongjo-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113012006,정조로,Jeongjo-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411113012006,정조로,Jeongjo-ro,04,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113174001,광교산로,Gwanggyosan-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174001,광교산로,Gwanggyosan-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113174001,광교산로,Gwanggyosan-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411113174001,광교산로,Gwanggyosan-ro,04,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",상광교동,Sanggwanggyo-dong,1,138
+411113174001,광교산로,Gwanggyosan-ro,05,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411113174002,금당로,Geumdang-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174002,금당로,Geumdang-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113174003,만석로,Manseok-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174003,만석로,Manseok-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113174003,만석로,Manseok-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113174003,만석로,Manseok-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411113174004,상률로,Sangnyul-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174004,상률로,Sangnyul-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411113174004,상률로,Sangnyul-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113174005,송원로,Songwon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174005,송원로,Songwon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411113174005,송원로,Songwon-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113174006,송정로,Songjeong-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174006,송정로,Songjeong-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113174006,송정로,Songjeong-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411113174006,송정로,Songjeong-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113174007,수일로,Suil-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174007,수일로,Suil-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411113174007,수일로,Suil-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411113174007,수일로,Suil-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113174007,수일로,Suil-ro,04,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411113174008,연무로,Yeonmu-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174008,연무로,Yeonmu-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411113174009,영화로,Yeonghwa-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174009,영화로,Yeonghwa-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113174009,영화로,Yeonghwa-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113174010,이목로,Imok-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174010,이목로,Imok-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411113174010,이목로,Imok-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113174010,이목로,Imok-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411113174011,정자로,Jeongja-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174011,정자로,Jeongja-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113174011,정자로,Jeongja-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113174012,조원로,Jowon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174012,조원로,Jowon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113174012,조원로,Jowon-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113174013,창훈로,Changhun-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174013,창훈로,Changhun-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411113174014,천천로,Cheoncheon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174014,천천로,Cheoncheon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411113174014,천천로,Cheoncheon-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113174015,파장로,Pajang-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174015,파장로,Pajang-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411113174015,파장로,Pajang-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113174015,파장로,Pajang-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411113174016,하률로,Haryul-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174016,하률로,Haryul-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113174017,화서문로,Hwaseomun-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174019,파장천로,Pajangcheon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113174019,파장천로,Pajangcheon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411113175034,수성로,Suseong-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113175034,수성로,Suseong-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113175034,수성로,Suseong-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113175034,수성로,Suseong-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411113175035,수원천로,Suwoncheon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113175035,수원천로,Suwoncheon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113175035,수원천로,Suwoncheon-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411113175039,율전로,Yuljeon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113175039,율전로,Yuljeon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411113175040,일월로,Irwol-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113175040,일월로,Irwol-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113175041,일월천로,Irwolcheon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113175041,일월천로,Irwolcheon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113176005,대평로,Daepyeong-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113176005,대평로,Daepyeong-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113176011,장안로,Jangan-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113176011,장안로,Jangan-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411113176011,장안로,Jangan-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113176011,장안로,Jangan-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411113176011,장안로,Jangan-ro,04,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411113176011,장안로,Jangan-ro,05,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113176014,팔달로,Paldal-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113176014,팔달로,Paldal-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113176019,화산로,Hwasan-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113176019,화산로,Hwasan-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411113176019,화산로,Hwasan-ro,02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411113176019,화산로,Hwasan-ro,03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113176026,정자천로,Jeongjacheon-ro,00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113176026,정자천로,Jeongjacheon-ro,01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411113177012,월드컵로,"World cup-ro",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411113177012,월드컵로,"World cup-ro",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411113177012,월드컵로,"World cup-ro",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322002,경수대로1007번길,"Gyeongsu-daero 1007beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322002,경수대로1007번길,"Gyeongsu-daero 1007beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322003,경수대로1008번길,"Gyeongsu-daero 1008beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322003,경수대로1008번길,"Gyeongsu-daero 1008beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322004,경수대로1019번길,"Gyeongsu-daero 1019beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322004,경수대로1019번길,"Gyeongsu-daero 1019beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322004,경수대로1019번길,"Gyeongsu-daero 1019beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322005,경수대로1020번길,"Gyeongsu-daero 1020beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322005,경수대로1020번길,"Gyeongsu-daero 1020beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322005,경수대로1020번길,"Gyeongsu-daero 1020beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322006,경수대로1031번길,"Gyeongsu-daero 1031beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322006,경수대로1031번길,"Gyeongsu-daero 1031beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322007,경수대로1032번길,"Gyeongsu-daero 1032beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322007,경수대로1032번길,"Gyeongsu-daero 1032beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322008,경수대로1043번길,"Gyeongsu-daero 1043beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322008,경수대로1043번길,"Gyeongsu-daero 1043beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322009,경수대로1044번길,"Gyeongsu-daero 1044beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322009,경수대로1044번길,"Gyeongsu-daero 1044beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322010,경수대로1055번길,"Gyeongsu-daero 1055beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322010,경수대로1055번길,"Gyeongsu-daero 1055beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322011,경수대로1073번길,"Gyeongsu-daero 1073beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322011,경수대로1073번길,"Gyeongsu-daero 1073beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322012,경수대로1078번길,"Gyeongsu-daero 1078beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322012,경수대로1078번길,"Gyeongsu-daero 1078beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322013,경수대로1081번길,"Gyeongsu-daero 1081beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322013,경수대로1081번길,"Gyeongsu-daero 1081beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322014,경수대로1090번길,"Gyeongsu-daero 1090beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322014,경수대로1090번길,"Gyeongsu-daero 1090beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322015,경수대로1101번길,"Gyeongsu-daero 1101beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322015,경수대로1101번길,"Gyeongsu-daero 1101beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322016,경수대로1107번길,"Gyeongsu-daero 1107beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322016,경수대로1107번길,"Gyeongsu-daero 1107beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322017,경수대로1220번길,"Gyeongsu-daero 1220beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322017,경수대로1220번길,"Gyeongsu-daero 1220beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322018,경수대로743번길,"Gyeongsu-daero 743beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322018,경수대로743번길,"Gyeongsu-daero 743beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322019,경수대로744번길,"Gyeongsu-daero 744beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322019,경수대로744번길,"Gyeongsu-daero 744beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322020,경수대로753번길,"Gyeongsu-daero 753beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322020,경수대로753번길,"Gyeongsu-daero 753beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322021,경수대로754번길,"Gyeongsu-daero 754beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322021,경수대로754번길,"Gyeongsu-daero 754beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322022,경수대로774번길,"Gyeongsu-daero 774beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322022,경수대로774번길,"Gyeongsu-daero 774beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322023,경수대로775번길,"Gyeongsu-daero 775beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322023,경수대로775번길,"Gyeongsu-daero 775beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322024,경수대로776번길,"Gyeongsu-daero 776beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322024,경수대로776번길,"Gyeongsu-daero 776beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322025,경수대로805번길,"Gyeongsu-daero 805beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322025,경수대로805번길,"Gyeongsu-daero 805beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322026,경수대로811번길,"Gyeongsu-daero 811beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322026,경수대로811번길,"Gyeongsu-daero 811beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322027,경수대로830번길,"Gyeongsu-daero 830beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322027,경수대로830번길,"Gyeongsu-daero 830beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322028,경수대로835번길,"Gyeongsu-daero 835beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322028,경수대로835번길,"Gyeongsu-daero 835beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322029,경수대로844번길,"Gyeongsu-daero 844beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322029,경수대로844번길,"Gyeongsu-daero 844beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322030,경수대로847번길,"Gyeongsu-daero 847beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322030,경수대로847번길,"Gyeongsu-daero 847beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322031,경수대로853번길,"Gyeongsu-daero 853beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322031,경수대로853번길,"Gyeongsu-daero 853beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322032,경수대로858번길,"Gyeongsu-daero 858beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322032,경수대로858번길,"Gyeongsu-daero 858beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322033,경수대로878번길,"Gyeongsu-daero 878beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322033,경수대로878번길,"Gyeongsu-daero 878beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322034,경수대로894번길,"Gyeongsu-daero 894beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322034,경수대로894번길,"Gyeongsu-daero 894beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322035,경수대로908번길,"Gyeongsu-daero 908beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322035,경수대로908번길,"Gyeongsu-daero 908beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322036,경수대로927번길,"Gyeongsu-daero 927beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322036,경수대로927번길,"Gyeongsu-daero 927beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322037,경수대로939번길,"Gyeongsu-daero 939beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322037,경수대로939번길,"Gyeongsu-daero 939beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322038,경수대로955번길,"Gyeongsu-daero 955beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322038,경수대로955번길,"Gyeongsu-daero 955beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322039,경수대로973번길,"Gyeongsu-daero 973beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322039,경수대로973번길,"Gyeongsu-daero 973beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322040,경수대로976번길,"Gyeongsu-daero 976beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322040,경수대로976번길,"Gyeongsu-daero 976beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322040,경수대로976번길,"Gyeongsu-daero 976beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322041,경수대로983번길,"Gyeongsu-daero 983beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322041,경수대로983번길,"Gyeongsu-daero 983beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322042,경수대로994번길,"Gyeongsu-daero 994beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322042,경수대로994번길,"Gyeongsu-daero 994beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322043,경수대로995번길,"Gyeongsu-daero 995beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322043,경수대로995번길,"Gyeongsu-daero 995beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322044,광교산로125번길,"Gwanggyosan-ro 125beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322044,광교산로125번길,"Gwanggyosan-ro 125beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411114322045,광교산로138번길,"Gwanggyosan-ro 138beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322045,광교산로138번길,"Gwanggyosan-ro 138beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322046,광교산로140번길,"Gwanggyosan-ro 140beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322046,광교산로140번길,"Gwanggyosan-ro 140beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322047,광교산로14번길,"Gwanggyosan-ro 14beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322047,광교산로14번길,"Gwanggyosan-ro 14beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322048,광교산로260번길,"Gwanggyosan-ro 260beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322048,광교산로260번길,"Gwanggyosan-ro 260beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411114322049,광교산로28번길,"Gwanggyosan-ro 28beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322049,광교산로28번길,"Gwanggyosan-ro 28beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322050,광교산로332번길,"Gwanggyosan-ro 332beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322050,광교산로332번길,"Gwanggyosan-ro 332beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411114322051,광교산로374번길,"Gwanggyosan-ro 374beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322051,광교산로374번길,"Gwanggyosan-ro 374beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411114322052,광교산로378번길,"Gwanggyosan-ro 378beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322052,광교산로378번길,"Gwanggyosan-ro 378beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",상광교동,Sanggwanggyo-dong,1,138
+411114322052,광교산로378번길,"Gwanggyosan-ro 378beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",하광교동,Hagwanggyo-dong,1,139
+411114322053,광교산로509번길,"Gwanggyosan-ro 509beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322053,광교산로509번길,"Gwanggyosan-ro 509beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",상광교동,Sanggwanggyo-dong,1,138
+411114322054,광교산로518번길,"Gwanggyosan-ro 518beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322054,광교산로518번길,"Gwanggyosan-ro 518beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",상광교동,Sanggwanggyo-dong,1,138
+411114322055,금당로10번길,"Geumdang-ro 10beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322055,금당로10번길,"Geumdang-ro 10beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322056,금당로14번길,"Geumdang-ro 14beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322056,금당로14번길,"Geumdang-ro 14beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322057,금당로38번길,"Geumdang-ro 38beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322057,금당로38번길,"Geumdang-ro 38beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322058,금당로39번길,"Geumdang-ro 39beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322058,금당로39번길,"Geumdang-ro 39beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322059,금당로4번길,"Geumdang-ro 4beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322059,금당로4번길,"Geumdang-ro 4beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322060,금당로69번길,"Geumdang-ro 69beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322060,금당로69번길,"Geumdang-ro 69beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322061,금당로89번길,"Geumdang-ro 89beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322061,금당로89번길,"Geumdang-ro 89beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322062,금당로90번길,"Geumdang-ro 90beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322062,금당로90번길,"Geumdang-ro 90beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322063,금당로99번길,"Geumdang-ro 99beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322063,금당로99번길,"Geumdang-ro 99beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322064,금당로9번길,"Geumdang-ro 9beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322064,금당로9번길,"Geumdang-ro 9beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322065,대평로128번길,"Daepyeong-ro 128beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322065,대평로128번길,"Daepyeong-ro 128beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322066,대평로142번길,"Daepyeong-ro 142beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322066,대평로142번길,"Daepyeong-ro 142beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322067,대평로152번길,"Daepyeong-ro 152beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322067,대평로152번길,"Daepyeong-ro 152beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322068,대평로162번길,"Daepyeong-ro 162beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322068,대평로162번길,"Daepyeong-ro 162beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322069,대평로39번길,"Daepyeong-ro 39beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322069,대평로39번길,"Daepyeong-ro 39beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322070,대평로51번길,"Daepyeong-ro 51beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322070,대평로51번길,"Daepyeong-ro 51beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322071,대평로52번길,"Daepyeong-ro 52beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322071,대평로52번길,"Daepyeong-ro 52beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322072,대평로89번길,"Daepyeong-ro 89beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322072,대평로89번길,"Daepyeong-ro 89beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322073,대평로90번길,"Daepyeong-ro 90beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322073,대평로90번길,"Daepyeong-ro 90beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322074,덕영대로381번길,"Deogyeong-daero 381beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322074,덕영대로381번길,"Deogyeong-daero 381beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322075,덕영대로395번길,"Deogyeong-daero 395beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322075,덕영대로395번길,"Deogyeong-daero 395beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322076,덕영대로407번길,"Deogyeong-daero 407beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322076,덕영대로407번길,"Deogyeong-daero 407beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322077,덕영대로417번길,"Deogyeong-daero 417beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322077,덕영대로417번길,"Deogyeong-daero 417beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322078,덕영대로425번길,"Deogyeong-daero 425beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322078,덕영대로425번길,"Deogyeong-daero 425beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322079,덕영대로439번길,"Deogyeong-daero 439beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322079,덕영대로439번길,"Deogyeong-daero 439beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322080,덕영대로445번길,"Deogyeong-daero 445beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322080,덕영대로445번길,"Deogyeong-daero 445beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322081,덕영대로497번길,"Deogyeong-daero 497beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322081,덕영대로497번길,"Deogyeong-daero 497beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322082,덕영대로511번길,"Deogyeong-daero 511beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322082,덕영대로511번길,"Deogyeong-daero 511beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322083,덕영대로535번길,"Deogyeong-daero 535beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322083,덕영대로535번길,"Deogyeong-daero 535beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322084,만석로101번길,"Manseok-ro 101beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322084,만석로101번길,"Manseok-ro 101beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322085,만석로103번길,"Manseok-ro 103beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322085,만석로103번길,"Manseok-ro 103beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322086,만석로159번길,"Manseok-ro 159beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322086,만석로159번길,"Manseok-ro 159beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322086,만석로159번길,"Manseok-ro 159beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322086,만석로159번길,"Manseok-ro 159beon-gil",03,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322087,만석로177번길,"Manseok-ro 177beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322087,만석로177번길,"Manseok-ro 177beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322087,만석로177번길,"Manseok-ro 177beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322088,만석로19번길,"Manseok-ro 19beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322088,만석로19번길,"Manseok-ro 19beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322089,만석로209번길,"Manseok-ro 209beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322089,만석로209번길,"Manseok-ro 209beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322089,만석로209번길,"Manseok-ro 209beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322090,만석로20번길,"Manseok-ro 20beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322090,만석로20번길,"Manseok-ro 20beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322091,만석로210번길,"Manseok-ro 210beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322091,만석로210번길,"Manseok-ro 210beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322092,만석로5번길,"Manseok-ro 5beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322092,만석로5번길,"Manseok-ro 5beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322093,만석로68번길,"Manseok-ro 68beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322093,만석로68번길,"Manseok-ro 68beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322094,상률로12번길,"Sangnyul-ro 12beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322094,상률로12번길,"Sangnyul-ro 12beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322095,상률로46번길,"Sangnyul-ro 46beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322095,상률로46번길,"Sangnyul-ro 46beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322096,서부로2105번길,"Seobu-ro 2105beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322096,서부로2105번길,"Seobu-ro 2105beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322097,서부로2106번길,"Seobu-ro 2106beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322097,서부로2106번길,"Seobu-ro 2106beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322098,서부로2123번길,"Seobu-ro 2123beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322098,서부로2123번길,"Seobu-ro 2123beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322099,서부로2126번길,"Seobu-ro 2126beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322099,서부로2126번길,"Seobu-ro 2126beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322099,서부로2126번길,"Seobu-ro 2126beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322100,서부로2135번길,"Seobu-ro 2135beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322100,서부로2135번길,"Seobu-ro 2135beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322101,서부로2136번길,"Seobu-ro 2136beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322101,서부로2136번길,"Seobu-ro 2136beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322102,서부로2167번길,"Seobu-ro 2167beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322102,서부로2167번길,"Seobu-ro 2167beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322103,서부로2168번길,"Seobu-ro 2168beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322103,서부로2168번길,"Seobu-ro 2168beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322104,서부로2178번길,"Seobu-ro 2178beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322104,서부로2178번길,"Seobu-ro 2178beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322105,서부로2181번길,"Seobu-ro 2181beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322105,서부로2181번길,"Seobu-ro 2181beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322106,서부로2197번길,"Seobu-ro 2197beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322106,서부로2197번길,"Seobu-ro 2197beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322107,서부로2198번길,"Seobu-ro 2198beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322107,서부로2198번길,"Seobu-ro 2198beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322108,서부로2207번길,"Seobu-ro 2207beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322108,서부로2207번길,"Seobu-ro 2207beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322109,송원로13번길,"Songwon-ro 13beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322109,송원로13번길,"Songwon-ro 13beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322110,송원로14번길,"Songwon-ro 14beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322110,송원로14번길,"Songwon-ro 14beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322111,송원로1번길,"Songwon-ro 1beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322111,송원로1번길,"Songwon-ro 1beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322112,송원로23번길,"Songwon-ro 23beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322112,송원로23번길,"Songwon-ro 23beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322113,송원로24번길,"Songwon-ro 24beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322113,송원로24번길,"Songwon-ro 24beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322114,송원로41번길,"Songwon-ro 41beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322114,송원로41번길,"Songwon-ro 41beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322115,송원로59번길,"Songwon-ro 59beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322115,송원로59번길,"Songwon-ro 59beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322116,송원로86번길,"Songwon-ro 86beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322116,송원로86번길,"Songwon-ro 86beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322117,송원로92번길,"Songwon-ro 92beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322117,송원로92번길,"Songwon-ro 92beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322118,송정로104번길,"Songjeong-ro 104beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322118,송정로104번길,"Songjeong-ro 104beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322119,송정로118번길,"Songjeong-ro 118beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322119,송정로118번길,"Songjeong-ro 118beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322120,송정로130번길,"Songjeong-ro 130beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322120,송정로130번길,"Songjeong-ro 130beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322121,송정로138번길,"Songjeong-ro 138beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322121,송정로138번길,"Songjeong-ro 138beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322122,송정로150번길,"Songjeong-ro 150beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322122,송정로150번길,"Songjeong-ro 150beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322123,송정로167번길,"Songjeong-ro 167beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322123,송정로167번길,"Songjeong-ro 167beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322124,송정로168번길,"Songjeong-ro 168beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322124,송정로168번길,"Songjeong-ro 168beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322125,송정로177번길,"Songjeong-ro 177beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322125,송정로177번길,"Songjeong-ro 177beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322126,송정로182번길,"Songjeong-ro 182beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322126,송정로182번길,"Songjeong-ro 182beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322127,송정로184번길,"Songjeong-ro 184beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322127,송정로184번길,"Songjeong-ro 184beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322128,송정로186번길,"Songjeong-ro 186beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322128,송정로186번길,"Songjeong-ro 186beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322129,송정로187번길,"Songjeong-ro 187beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322129,송정로187번길,"Songjeong-ro 187beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322130,송정로190번길,"Songjeong-ro 190beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322130,송정로190번길,"Songjeong-ro 190beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322131,송정로192번길,"Songjeong-ro 192beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322131,송정로192번길,"Songjeong-ro 192beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322132,송정로21번길,"Songjeong-ro 21beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322132,송정로21번길,"Songjeong-ro 21beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322133,송정로24번길,"Songjeong-ro 24beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322133,송정로24번길,"Songjeong-ro 24beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322134,송정로34번길,"Songjeong-ro 34beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322134,송정로34번길,"Songjeong-ro 34beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322135,송정로46번길,"Songjeong-ro 46beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322135,송정로46번길,"Songjeong-ro 46beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322136,송정로47번길,"Songjeong-ro 47beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322136,송정로47번길,"Songjeong-ro 47beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322137,송정로59번길,"Songjeong-ro 59beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322137,송정로59번길,"Songjeong-ro 59beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322138,송정로60번길,"Songjeong-ro 60beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322138,송정로60번길,"Songjeong-ro 60beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322139,송정로76번길,"Songjeong-ro 76beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322139,송정로76번길,"Songjeong-ro 76beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322140,송정로90번길,"Songjeong-ro 90beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322140,송정로90번길,"Songjeong-ro 90beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322141,수성로244번길,"Suseong-ro 244beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322141,수성로244번길,"Suseong-ro 244beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",상광교동,Sanggwanggyo-dong,1,138
+411114322142,수성로245번길,"Suseong-ro 245beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322142,수성로245번길,"Suseong-ro 245beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322143,수성로258번길,"Suseong-ro 258beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322143,수성로258번길,"Suseong-ro 258beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322144,수성로261번길,"Suseong-ro 261beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322144,수성로261번길,"Suseong-ro 261beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322145,수성로262번길,"Suseong-ro 262beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322145,수성로262번길,"Suseong-ro 262beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322146,수성로275번길,"Suseong-ro 275beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322146,수성로275번길,"Suseong-ro 275beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322147,수성로276번길,"Suseong-ro 276beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322147,수성로276번길,"Suseong-ro 276beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322148,수성로289번길,"Suseong-ro 289beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322148,수성로289번길,"Suseong-ro 289beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322149,수성로290번길,"Suseong-ro 290beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322149,수성로290번길,"Suseong-ro 290beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322150,수성로303번길,"Suseong-ro 303beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322150,수성로303번길,"Suseong-ro 303beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322151,수성로304번길,"Suseong-ro 304beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322151,수성로304번길,"Suseong-ro 304beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322152,수성로316번길,"Suseong-ro 316beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322152,수성로316번길,"Suseong-ro 316beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322153,수성로327번길,"Suseong-ro 327beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322153,수성로327번길,"Suseong-ro 327beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322154,수성로328번길,"Suseong-ro 328beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322154,수성로328번길,"Suseong-ro 328beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322155,수성로339번길,"Suseong-ro 339beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322155,수성로339번길,"Suseong-ro 339beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322156,수성로340번길,"Suseong-ro 340beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322156,수성로340번길,"Suseong-ro 340beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322157,수성로349번길,"Suseong-ro 349beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322157,수성로349번길,"Suseong-ro 349beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322158,수성로350번길,"Suseong-ro 350beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322158,수성로350번길,"Suseong-ro 350beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322159,수성로363번길,"Suseong-ro 363beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322159,수성로363번길,"Suseong-ro 363beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322160,수성로364번길,"Suseong-ro 364beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322160,수성로364번길,"Suseong-ro 364beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322161,수성로370번길,"Suseong-ro 370beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322161,수성로370번길,"Suseong-ro 370beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322162,수성로381번길,"Suseong-ro 381beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322162,수성로381번길,"Suseong-ro 381beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322163,수성로382번길,"Suseong-ro 382beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322163,수성로382번길,"Suseong-ro 382beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322164,수성로394번길,"Suseong-ro 394beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322164,수성로394번길,"Suseong-ro 394beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322165,수성로402번길,"Suseong-ro 402beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322165,수성로402번길,"Suseong-ro 402beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322166,수성로427번길,"Suseong-ro 427beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322166,수성로427번길,"Suseong-ro 427beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322167,수원천로391번길,"Suwoncheon-ro 391beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322167,수원천로391번길,"Suwoncheon-ro 391beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322168,수원천로392번길,"Suwoncheon-ro 392beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322168,수원천로392번길,"Suwoncheon-ro 392beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322169,수원천로406번길,"Suwoncheon-ro 406beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322169,수원천로406번길,"Suwoncheon-ro 406beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322170,수원천로407번길,"Suwoncheon-ro 407beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322170,수원천로407번길,"Suwoncheon-ro 407beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322171,수원천로414번길,"Suwoncheon-ro 414beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322171,수원천로414번길,"Suwoncheon-ro 414beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322172,수원천로428번길,"Suwoncheon-ro 428beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322172,수원천로428번길,"Suwoncheon-ro 428beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322173,수원천로442번길,"Suwoncheon-ro 442beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322173,수원천로442번길,"Suwoncheon-ro 442beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322174,수원천로447번길,"Suwoncheon-ro 447beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322174,수원천로447번길,"Suwoncheon-ro 447beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322175,수원천로455번길,"Suwoncheon-ro 455beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322175,수원천로455번길,"Suwoncheon-ro 455beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322176,수원천로458번길,"Suwoncheon-ro 458beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322176,수원천로458번길,"Suwoncheon-ro 458beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322177,수원천로472번길,"Suwoncheon-ro 472beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322177,수원천로472번길,"Suwoncheon-ro 472beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322178,수일로104번길,"Suil-ro 104beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322178,수일로104번길,"Suil-ro 104beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322178,수일로104번길,"Suil-ro 104beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322179,수일로107번길,"Suil-ro 107beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322179,수일로107번길,"Suil-ro 107beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322180,수일로113번길,"Suil-ro 113beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322180,수일로113번길,"Suil-ro 113beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322181,수일로117번길,"Suil-ro 117beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322181,수일로117번길,"Suil-ro 117beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322182,수일로118번길,"Suil-ro 118beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322182,수일로118번길,"Suil-ro 118beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322183,수일로123번길,"Suil-ro 123beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322183,수일로123번길,"Suil-ro 123beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322184,수일로16번길,"Suil-ro 16beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322184,수일로16번길,"Suil-ro 16beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322185,수일로179번길,"Suil-ro 179beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322185,수일로179번길,"Suil-ro 179beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322186,수일로191번길,"Suil-ro 191beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322186,수일로191번길,"Suil-ro 191beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322187,수일로219번길,"Suil-ro 219beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322187,수일로219번길,"Suil-ro 219beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322188,수일로233번길,"Suil-ro 233beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322188,수일로233번길,"Suil-ro 233beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322189,수일로336번길,"Suil-ro 336beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322189,수일로336번길,"Suil-ro 336beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322190,수일로42번길,"Suil-ro 42beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322190,수일로42번길,"Suil-ro 42beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322191,수일로49번길,"Suil-ro 49beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322191,수일로49번길,"Suil-ro 49beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322192,수일로51번길,"Suil-ro 51beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322192,수일로51번길,"Suil-ro 51beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322193,수일로80번길,"Suil-ro 80beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322193,수일로80번길,"Suil-ro 80beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322194,수일로91번길,"Suil-ro 91beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322194,수일로91번길,"Suil-ro 91beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322195,수일로92번길,"Suil-ro 92beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322195,수일로92번길,"Suil-ro 92beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322196,연무로13번길,"Yeonmu-ro 13beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322196,연무로13번길,"Yeonmu-ro 13beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322197,연무로20번길,"Yeonmu-ro 20beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322197,연무로20번길,"Yeonmu-ro 20beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322198,연무로32번길,"Yeonmu-ro 32beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322198,연무로32번길,"Yeonmu-ro 32beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322199,연무로42번길,"Yeonmu-ro 42beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322199,연무로42번길,"Yeonmu-ro 42beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322200,연무로56번길,"Yeonmu-ro 56beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322200,연무로56번길,"Yeonmu-ro 56beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322201,연무로7번길,"Yeonmu-ro 7beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322201,연무로7번길,"Yeonmu-ro 7beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322202,연무로8번길,"Yeonmu-ro 8beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322202,연무로8번길,"Yeonmu-ro 8beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322203,영화로13번길,"Yeonghwa-ro 13beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322203,영화로13번길,"Yeonghwa-ro 13beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322204,영화로14번길,"Yeonghwa-ro 14beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322204,영화로14번길,"Yeonghwa-ro 14beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322205,영화로25번길,"Yeonghwa-ro 25beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322205,영화로25번길,"Yeonghwa-ro 25beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322206,영화로26번길,"Yeonghwa-ro 26beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322206,영화로26번길,"Yeonghwa-ro 26beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322207,영화로37번길,"Yeonghwa-ro 37beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322207,영화로37번길,"Yeonghwa-ro 37beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322208,영화로38번길,"Yeonghwa-ro 38beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322208,영화로38번길,"Yeonghwa-ro 38beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322209,영화로49번길,"Yeonghwa-ro 49beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322209,영화로49번길,"Yeonghwa-ro 49beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322210,영화로50번길,"Yeonghwa-ro 50beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322210,영화로50번길,"Yeonghwa-ro 50beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322211,영화로71번길,"Yeonghwa-ro 71beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322211,영화로71번길,"Yeonghwa-ro 71beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322212,영화로72번길,"Yeonghwa-ro 72beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322212,영화로72번길,"Yeonghwa-ro 72beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322213,영화로7번길,"Yeonghwa-ro 7beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322213,영화로7번길,"Yeonghwa-ro 7beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322214,영화로85번길,"Yeonghwa-ro 85beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322214,영화로85번길,"Yeonghwa-ro 85beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322215,영화로86번길,"Yeonghwa-ro 86beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322215,영화로86번길,"Yeonghwa-ro 86beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322216,영화로96번길,"Yeonghwa-ro 96beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322216,영화로96번길,"Yeonghwa-ro 96beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322217,영화로97번길,"Yeonghwa-ro 97beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322217,영화로97번길,"Yeonghwa-ro 97beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322218,월드컵로404번길,"World cup-ro 404beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322218,월드컵로404번길,"World cup-ro 404beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322219,월드컵로405번길,"World cup-ro 405beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322219,월드컵로405번길,"World cup-ro 405beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322220,월드컵로418번길,"World cup-ro 418beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322220,월드컵로418번길,"World cup-ro 418beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322221,월드컵로428번길,"World cup-ro 428beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322221,월드컵로428번길,"World cup-ro 428beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322222,월드컵로429번길,"World cup-ro 429beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322222,월드컵로429번길,"World cup-ro 429beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322223,월드컵로442번길,"World cup-ro 442beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322223,월드컵로442번길,"World cup-ro 442beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322224,월드컵로451번길,"World cup-ro 451beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322224,월드컵로451번길,"World cup-ro 451beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322225,월드컵로453번길,"World cup-ro 453beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322225,월드컵로453번길,"World cup-ro 453beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322226,율전로101번길,"Yuljeon-ro 101beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322226,율전로101번길,"Yuljeon-ro 101beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322227,율전로107번길,"Yuljeon-ro 107beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322227,율전로107번길,"Yuljeon-ro 107beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322228,율전로108번길,"Yuljeon-ro 108beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322228,율전로108번길,"Yuljeon-ro 108beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322229,율전로80번길,"Yuljeon-ro 80beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322229,율전로80번길,"Yuljeon-ro 80beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322230,율전로85번길,"Yuljeon-ro 85beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322230,율전로85번길,"Yuljeon-ro 85beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322231,율전로97번길,"Yuljeon-ro 97beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322231,율전로97번길,"Yuljeon-ro 97beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322232,율전로98번길,"Yuljeon-ro 98beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322232,율전로98번길,"Yuljeon-ro 98beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322233,이목로29번길,"Imok-ro 29beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322233,이목로29번길,"Imok-ro 29beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322233,이목로29번길,"Imok-ro 29beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322234,이목로5번길,"Imok-ro 5beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322234,이목로5번길,"Imok-ro 5beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322235,이목로66번길,"Imok-ro 66beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322235,이목로66번길,"Imok-ro 66beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322236,이목로74번길,"Imok-ro 74beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322236,이목로74번길,"Imok-ro 74beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322237,일월로66번길,"Irwol-ro 66beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322237,일월로66번길,"Irwol-ro 66beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322238,일월로76번길,"Irwol-ro 76beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322238,일월로76번길,"Irwol-ro 76beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322239,일월로82번길,"Irwol-ro 82beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322239,일월로82번길,"Irwol-ro 82beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322240,일월로90번길,"Irwol-ro 90beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322240,일월로90번길,"Irwol-ro 90beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322241,장안로103번길,"Jangan-ro 103beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322241,장안로103번길,"Jangan-ro 103beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322242,장안로104번길,"Jangan-ro 104beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322242,장안로104번길,"Jangan-ro 104beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322243,장안로115번길,"Jangan-ro 115beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322243,장안로115번길,"Jangan-ro 115beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322244,장안로116번길,"Jangan-ro 116beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322244,장안로116번길,"Jangan-ro 116beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322245,장안로125번길,"Jangan-ro 125beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322245,장안로125번길,"Jangan-ro 125beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322246,장안로126번길,"Jangan-ro 126beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322246,장안로126번길,"Jangan-ro 126beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322247,장안로139번길,"Jangan-ro 139beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322247,장안로139번길,"Jangan-ro 139beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322248,장안로140번길,"Jangan-ro 140beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322248,장안로140번길,"Jangan-ro 140beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322249,장안로151번길,"Jangan-ro 151beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322249,장안로151번길,"Jangan-ro 151beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322250,장안로155번길,"Jangan-ro 155beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322250,장안로155번길,"Jangan-ro 155beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322251,장안로17번길,"Jangan-ro 17beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322251,장안로17번길,"Jangan-ro 17beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322252,장안로18번길,"Jangan-ro 18beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322252,장안로18번길,"Jangan-ro 18beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322253,장안로217번길,"Jangan-ro 217beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322253,장안로217번길,"Jangan-ro 217beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322254,장안로259번길,"Jangan-ro 259beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322254,장안로259번길,"Jangan-ro 259beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322255,장안로269번길,"Jangan-ro 269beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322255,장안로269번길,"Jangan-ro 269beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322256,장안로279번길,"Jangan-ro 279beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322256,장안로279번길,"Jangan-ro 279beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322257,장안로287번길,"Jangan-ro 287beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322257,장안로287번길,"Jangan-ro 287beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322258,장안로291번길,"Jangan-ro 291beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322258,장안로291번길,"Jangan-ro 291beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322259,장안로29번길,"Jangan-ro 29beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322259,장안로29번길,"Jangan-ro 29beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322260,장안로301번길,"Jangan-ro 301beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322260,장안로301번길,"Jangan-ro 301beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322261,장안로30번길,"Jangan-ro 30beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322261,장안로30번길,"Jangan-ro 30beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322262,장안로314번길,"Jangan-ro 314beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322262,장안로314번길,"Jangan-ro 314beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322263,장안로320번길,"Jangan-ro 320beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322263,장안로320번길,"Jangan-ro 320beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322264,장안로324번길,"Jangan-ro 324beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322264,장안로324번길,"Jangan-ro 324beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322265,장안로346번길,"Jangan-ro 346beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322265,장안로346번길,"Jangan-ro 346beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322265,장안로346번길,"Jangan-ro 346beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322266,장안로359번길,"Jangan-ro 359beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322266,장안로359번길,"Jangan-ro 359beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322266,장안로359번길,"Jangan-ro 359beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322267,장안로378번길,"Jangan-ro 378beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322267,장안로378번길,"Jangan-ro 378beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322268,장안로385번길,"Jangan-ro 385beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322268,장안로385번길,"Jangan-ro 385beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322269,장안로386번길,"Jangan-ro 386beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322269,장안로386번길,"Jangan-ro 386beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322270,장안로398번길,"Jangan-ro 398beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322270,장안로398번길,"Jangan-ro 398beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322272,장안로419번길,"Jangan-ro 419beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322272,장안로419번길,"Jangan-ro 419beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322273,장안로41번길,"Jangan-ro 41beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322273,장안로41번길,"Jangan-ro 41beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322274,장안로427번길,"Jangan-ro 427beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322274,장안로427번길,"Jangan-ro 427beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322275,장안로42번길,"Jangan-ro 42beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322275,장안로42번길,"Jangan-ro 42beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322276,장안로448번길,"Jangan-ro 448beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322276,장안로448번길,"Jangan-ro 448beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322277,장안로458번길,"Jangan-ro 458beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322277,장안로458번길,"Jangan-ro 458beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322278,장안로478번길,"Jangan-ro 478beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322278,장안로478번길,"Jangan-ro 478beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322279,장안로496번길,"Jangan-ro 496beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322279,장안로496번길,"Jangan-ro 496beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322280,장안로53번길,"Jangan-ro 53beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322280,장안로53번길,"Jangan-ro 53beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322281,장안로54번길,"Jangan-ro 54beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322281,장안로54번길,"Jangan-ro 54beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322282,장안로5번길,"Jangan-ro 5beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322282,장안로5번길,"Jangan-ro 5beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322283,장안로63번길,"Jangan-ro 63beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322283,장안로63번길,"Jangan-ro 63beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322284,장안로64번길,"Jangan-ro 64beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322284,장안로64번길,"Jangan-ro 64beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322285,장안로75번길,"Jangan-ro 75beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322285,장안로75번길,"Jangan-ro 75beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322286,장안로76번길,"Jangan-ro 76beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322286,장안로76번길,"Jangan-ro 76beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322287,장안로7번길,"Jangan-ro 7beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322287,장안로7번길,"Jangan-ro 7beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322288,장안로89번길,"Jangan-ro 89beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322288,장안로89번길,"Jangan-ro 89beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322289,장안로8번길,"Jangan-ro 8beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322289,장안로8번길,"Jangan-ro 8beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322290,장안로90번길,"Jangan-ro 90beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322290,장안로90번길,"Jangan-ro 90beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322291,정자로111번길,"Jeongja-ro 111beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322291,정자로111번길,"Jeongja-ro 111beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322292,정자로123번길,"Jeongja-ro 123beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322292,정자로123번길,"Jeongja-ro 123beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322293,정자로130번길,"Jeongja-ro 130beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322293,정자로130번길,"Jeongja-ro 130beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322294,정자로133번길,"Jeongja-ro 133beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322294,정자로133번길,"Jeongja-ro 133beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322295,정자로144번길,"Jeongja-ro 144beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322295,정자로144번길,"Jeongja-ro 144beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322296,정자로145번길,"Jeongja-ro 145beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322296,정자로145번길,"Jeongja-ro 145beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322302,정자로19번길,"Jeongja-ro 19beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322302,정자로19번길,"Jeongja-ro 19beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322304,정자로20번길,"Jeongja-ro 20beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322304,정자로20번길,"Jeongja-ro 20beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322311,정자로31번길,"Jeongja-ro 31beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322311,정자로31번길,"Jeongja-ro 31beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322312,정자로32번길,"Jeongja-ro 32beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322312,정자로32번길,"Jeongja-ro 32beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322313,정자로41번길,"Jeongja-ro 41beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322313,정자로41번길,"Jeongja-ro 41beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322314,정자로42번길,"Jeongja-ro 42beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322314,정자로42번길,"Jeongja-ro 42beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322315,정자로99번길,"Jeongja-ro 99beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322315,정자로99번길,"Jeongja-ro 99beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322317,정자천로133번길,"Jeongjacheon-ro 133beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322317,정자천로133번길,"Jeongjacheon-ro 133beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322318,정자천로134번길,"Jeongjacheon-ro 134beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322318,정자천로134번길,"Jeongjacheon-ro 134beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322319,정자천로173번길,"Jeongjacheon-ro 173beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322319,정자천로173번길,"Jeongjacheon-ro 173beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322320,정자천로188번길,"Jeongjacheon-ro 188beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322320,정자천로188번길,"Jeongjacheon-ro 188beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322321,정자천로189번길,"Jeongjacheon-ro 189beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322321,정자천로189번길,"Jeongjacheon-ro 189beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322322,정조로1041번길,"Jeongjo-ro 1041beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322322,정조로1041번길,"Jeongjo-ro 1041beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322323,정조로1051번길,"Jeongjo-ro 1051beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322323,정조로1051번길,"Jeongjo-ro 1051beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322324,정조로1053번길,"Jeongjo-ro 1053beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322324,정조로1053번길,"Jeongjo-ro 1053beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322325,정조로1060번길,"Jeongjo-ro 1060beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322325,정조로1060번길,"Jeongjo-ro 1060beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322326,정조로1074번길,"Jeongjo-ro 1074beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322326,정조로1074번길,"Jeongjo-ro 1074beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322327,정조로1088번길,"Jeongjo-ro 1088beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322327,정조로1088번길,"Jeongjo-ro 1088beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322328,정조로1102번길,"Jeongjo-ro 1102beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322328,정조로1102번길,"Jeongjo-ro 1102beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322329,정조로1110번길,"Jeongjo-ro 1110beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322329,정조로1110번길,"Jeongjo-ro 1110beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322330,정조로921번길,"Jeongjo-ro 921beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322330,정조로921번길,"Jeongjo-ro 921beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322331,정조로922번길,"Jeongjo-ro 922beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322331,정조로922번길,"Jeongjo-ro 922beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322332,정조로933번길,"Jeongjo-ro 933beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322332,정조로933번길,"Jeongjo-ro 933beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322333,정조로934번길,"Jeongjo-ro 934beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322333,정조로934번길,"Jeongjo-ro 934beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322334,정조로945번길,"Jeongjo-ro 945beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322334,정조로945번길,"Jeongjo-ro 945beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322335,정조로946번길,"Jeongjo-ro 946beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322335,정조로946번길,"Jeongjo-ro 946beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322336,정조로957번길,"Jeongjo-ro 957beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322336,정조로957번길,"Jeongjo-ro 957beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322337,정조로958번길,"Jeongjo-ro 958beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322337,정조로958번길,"Jeongjo-ro 958beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322338,정조로978번길,"Jeongjo-ro 978beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322338,정조로978번길,"Jeongjo-ro 978beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322339,정조로981번길,"Jeongjo-ro 981beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322339,정조로981번길,"Jeongjo-ro 981beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322340,조원로111번길,"Jowon-ro 111beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322340,조원로111번길,"Jowon-ro 111beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322341,조원로112번길,"Jowon-ro 112beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322341,조원로112번길,"Jowon-ro 112beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322342,조원로115번길,"Jowon-ro 115beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322342,조원로115번길,"Jowon-ro 115beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322343,조원로24번길,"Jowon-ro 24beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322343,조원로24번길,"Jowon-ro 24beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322344,조원로41번길,"Jowon-ro 41beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322344,조원로41번길,"Jowon-ro 41beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322345,조원로46번길,"Jowon-ro 46beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322345,조원로46번길,"Jowon-ro 46beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322346,조원로50번길,"Jowon-ro 50beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322346,조원로50번길,"Jowon-ro 50beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322347,조원로54번길,"Jowon-ro 54beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322347,조원로54번길,"Jowon-ro 54beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322348,조원로58번길,"Jowon-ro 58beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322348,조원로58번길,"Jowon-ro 58beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322349,조원로69번길,"Jowon-ro 69beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322349,조원로69번길,"Jowon-ro 69beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322350,조원로74번길,"Jowon-ro 74beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322350,조원로74번길,"Jowon-ro 74beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322351,조원로89번길,"Jowon-ro 89beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322351,조원로89번길,"Jowon-ro 89beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322352,조원로90번길,"Jowon-ro 90beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322352,조원로90번길,"Jowon-ro 90beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",조원동,Jowon-dong,1,136
+411114322353,창훈로19번길,"Changhun-ro 19beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322353,창훈로19번길,"Changhun-ro 19beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322354,창훈로20번길,"Changhun-ro 20beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322354,창훈로20번길,"Changhun-ro 20beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322355,창훈로29번길,"Changhun-ro 29beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322355,창훈로29번길,"Changhun-ro 29beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322356,창훈로30번길,"Changhun-ro 30beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322356,창훈로30번길,"Changhun-ro 30beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322357,창훈로39번길,"Changhun-ro 39beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322357,창훈로39번길,"Changhun-ro 39beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322358,창훈로40번길,"Changhun-ro 40beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322358,창훈로40번길,"Changhun-ro 40beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322359,창훈로46번길,"Changhun-ro 46beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322359,창훈로46번길,"Changhun-ro 46beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322360,창훈로52번길,"Changhun-ro 52beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322360,창훈로52번길,"Changhun-ro 52beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322361,창훈로60번길,"Changhun-ro 60beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322361,창훈로60번길,"Changhun-ro 60beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322362,창훈로66번길,"Changhun-ro 66beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322362,창훈로66번길,"Changhun-ro 66beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322363,창훈로80번길,"Changhun-ro 80beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322363,창훈로80번길,"Changhun-ro 80beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322364,창훈로8번길,"Changhun-ro 8beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322364,창훈로8번길,"Changhun-ro 8beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114322365,천천로210번길,"Cheoncheon-ro 210beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322365,천천로210번길,"Cheoncheon-ro 210beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322366,천천로21번길,"Cheoncheon-ro 21beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322366,천천로21번길,"Cheoncheon-ro 21beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322367,천천로22번길,"Cheoncheon-ro 22beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322367,천천로22번길,"Cheoncheon-ro 22beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322368,천천로233번길,"Cheoncheon-ro 233beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322368,천천로233번길,"Cheoncheon-ro 233beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322369,천천로234번길,"Cheoncheon-ro 234beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322369,천천로234번길,"Cheoncheon-ro 234beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114322370,천천로74번길,"Cheoncheon-ro 74beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322370,천천로74번길,"Cheoncheon-ro 74beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114322371,파장로100번길,"Pajang-ro 100beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322371,파장로100번길,"Pajang-ro 100beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322372,파장로110번길,"Pajang-ro 110beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322372,파장로110번길,"Pajang-ro 110beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322373,파장로21번길,"Pajang-ro 21beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322373,파장로21번길,"Pajang-ro 21beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322373,파장로21번길,"Pajang-ro 21beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322374,파장로22번길,"Pajang-ro 22beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322374,파장로22번길,"Pajang-ro 22beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322374,파장로22번길,"Pajang-ro 22beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322375,파장로34번길,"Pajang-ro 34beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322375,파장로34번길,"Pajang-ro 34beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322376,파장로46번길,"Pajang-ro 46beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322376,파장로46번길,"Pajang-ro 46beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322377,파장로54번길,"Pajang-ro 54beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322377,파장로54번길,"Pajang-ro 54beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322378,파장로60번길,"Pajang-ro 60beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322378,파장로60번길,"Pajang-ro 60beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322379,파장로68번길,"Pajang-ro 68beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322379,파장로68번길,"Pajang-ro 68beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322380,파장로6번길,"Pajang-ro 6beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322380,파장로6번길,"Pajang-ro 6beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322381,파장로76번길,"Pajang-ro 76beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322381,파장로76번길,"Pajang-ro 76beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322382,파장로7번길,"Pajang-ro 7beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322382,파장로7번길,"Pajang-ro 7beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322383,파장로82번길,"Pajang-ro 82beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322383,파장로82번길,"Pajang-ro 82beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322384,파장로88번길,"Pajang-ro 88beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322384,파장로88번길,"Pajang-ro 88beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322386,파장천로119번길,"Pajangcheon-ro 119beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322386,파장천로119번길,"Pajangcheon-ro 119beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322387,파장천로11번길,"Pajangcheon-ro 11beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322387,파장천로11번길,"Pajangcheon-ro 11beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322388,파장천로12번길,"Pajangcheon-ro 12beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322388,파장천로12번길,"Pajangcheon-ro 12beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322388,파장천로12번길,"Pajangcheon-ro 12beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322389,파장천로19번길,"Pajangcheon-ro 19beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322389,파장천로19번길,"Pajangcheon-ro 19beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322390,파장천로25번길,"Pajangcheon-ro 25beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322390,파장천로25번길,"Pajangcheon-ro 25beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322391,파장천로26번길,"Pajangcheon-ro 26beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322391,파장천로26번길,"Pajangcheon-ro 26beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322392,파장천로30번길,"Pajangcheon-ro 30beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322392,파장천로30번길,"Pajangcheon-ro 30beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322392,파장천로30번길,"Pajangcheon-ro 30beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322393,파장천로44번길,"Pajangcheon-ro 44beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322393,파장천로44번길,"Pajangcheon-ro 44beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322393,파장천로44번길,"Pajangcheon-ro 44beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322394,파장천로55번길,"Pajangcheon-ro 55beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322394,파장천로55번길,"Pajangcheon-ro 55beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322395,파장천로58번길,"Pajangcheon-ro 58beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322395,파장천로58번길,"Pajangcheon-ro 58beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322395,파장천로58번길,"Pajangcheon-ro 58beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322396,파장천로59번길,"Pajangcheon-ro 59beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322396,파장천로59번길,"Pajangcheon-ro 59beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322397,파장천로66번길,"Pajangcheon-ro 66beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322397,파장천로66번길,"Pajangcheon-ro 66beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",파장동,Pajang-dong,1,129
+411114322397,파장천로66번길,"Pajangcheon-ro 66beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",송죽동,Songjuk-dong,1,135
+411114322398,팔달로199번길,"Paldal-ro 199beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322398,팔달로199번길,"Paldal-ro 199beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322399,팔달로213번길,"Paldal-ro 213beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322399,팔달로213번길,"Paldal-ro 213beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322400,팔달로225번길,"Paldal-ro 225beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322400,팔달로225번길,"Paldal-ro 225beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322401,팔달로237번길,"Paldal-ro 237beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322401,팔달로237번길,"Paldal-ro 237beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322402,팔달로247번길,"Paldal-ro 247beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322402,팔달로247번길,"Paldal-ro 247beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322403,팔달로259번길,"Paldal-ro 259beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322403,팔달로259번길,"Paldal-ro 259beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322404,팔달로271번길,"Paldal-ro 271beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322404,팔달로271번길,"Paldal-ro 271beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322405,팔달로279번길,"Paldal-ro 279beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322405,팔달로279번길,"Paldal-ro 279beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322406,팔달로291번길,"Paldal-ro 291beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322406,팔달로291번길,"Paldal-ro 291beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322407,팔달로292번길,"Paldal-ro 292beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322407,팔달로292번길,"Paldal-ro 292beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322408,팔달로303번길,"Paldal-ro 303beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322408,팔달로303번길,"Paldal-ro 303beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322409,팔달로308번길,"Paldal-ro 308beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322409,팔달로308번길,"Paldal-ro 308beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322410,팔달로309번길,"Paldal-ro 309beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322410,팔달로309번길,"Paldal-ro 309beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322411,팔달로316번길,"Paldal-ro 316beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322411,팔달로316번길,"Paldal-ro 316beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",영화동,Yeonghwa-dong,1,134
+411114322412,하률로11번길,"Haryul-ro 11beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322412,하률로11번길,"Haryul-ro 11beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322413,하률로12번길,"Haryul-ro 12beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322413,하률로12번길,"Haryul-ro 12beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322414,하률로1번길,"Haryul-ro 1beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322414,하률로1번길,"Haryul-ro 1beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322415,하률로25번길,"Haryul-ro 25beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322415,하률로25번길,"Haryul-ro 25beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322416,하률로30번길,"Haryul-ro 30beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322416,하률로30번길,"Haryul-ro 30beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322417,하률로46번길,"Haryul-ro 46beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322417,하률로46번길,"Haryul-ro 46beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322418,하률로56번길,"Haryul-ro 56beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322418,하률로56번길,"Haryul-ro 56beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322419,화산로125번길,"Hwasan-ro 125beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322419,화산로125번길,"Hwasan-ro 125beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322420,화산로141번길,"Hwasan-ro 141beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322420,화산로141번길,"Hwasan-ro 141beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322422,화산로187번길,"Hwasan-ro 187beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322422,화산로187번길,"Hwasan-ro 187beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322422,화산로187번길,"Hwasan-ro 187beon-gil",02,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114322423,화산로203번길,"Hwasan-ro 203beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322423,화산로203번길,"Hwasan-ro 203beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322424,화산로213번길,"Hwasan-ro 213beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322424,화산로213번길,"Hwasan-ro 213beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322425,화산로233번길,"Hwasan-ro 233beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322425,화산로233번길,"Hwasan-ro 233beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322426,화산로259번길,"Hwasan-ro 259beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322426,화산로259번길,"Hwasan-ro 259beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322427,화산로285번길,"Hwasan-ro 285beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322427,화산로285번길,"Hwasan-ro 285beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114322429,장안로401번길,"Jangan-ro 401beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322430,정자천로106번길,"Jeongjacheon-ro 106beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114322431,화산로163번길,"Hwasan-ro 163beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114325398,율전로63번길,"Yuljeon-ro 63beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114325398,율전로63번길,"Yuljeon-ro 63beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114325399,율전로64번길,"Yuljeon-ro 64beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114325399,율전로64번길,"Yuljeon-ro 64beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",율전동,Yuljeon-dong,1,132
+411114328193,수성로157번길,"Suseong-ro 157beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114328193,수성로157번길,"Suseong-ro 157beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114328259,정자천로13번길,"Jeongjacheon-ro 13beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114328259,정자천로13번길,"Jeongjacheon-ro 13beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",천천동,Cheoncheon-dong,1,133
+411114328333,창룡대로207번길,"Changnyong-daero 207beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114328333,창룡대로207번길,"Changnyong-daero 207beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114328483,덕영대로639번길,"Deogyeong-daero 639beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114328483,덕영대로639번길,"Deogyeong-daero 639beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114328492,창룡대로151번길,"Changnyong-daero 151beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114328492,창룡대로151번길,"Changnyong-daero 151beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",연무동,Yeonmu-dong,1,137
+411114430289,장안로309번길,"Jangan-ro 309beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114430289,장안로309번길,"Jangan-ro 309beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",정자동,Jeongja-dong,1,130
+411114851556,이목로23번길,"Imok-ro 23beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411114851556,이목로23번길,"Imok-ro 23beon-gil",01,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",이목동,Imok-dong,1,131
+411114857661,천천로152번길,"Cheoncheon-ro 152beon-gil",00,경기도,Gyeonggi-do,"수원시 장안구","Jangan-gu, Suwon-si",,,2,
+411131000115,수원문산고속도로,"Suwon Munsan Expressway",00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411132012008,경수대로,Gyeongsu-daero,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411132012008,경수대로,Gyeongsu-daero,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",세류동,Seryu-dong,1,126
+411132012008,경수대로,Gyeongsu-daero,02,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",권선동,Gwonseon-dong,1,137
+411132012008,경수대로,Gyeongsu-daero,03,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",대황교동,Daehwanggyo-dong,1,139
+411133000064,수인로,Suin-ro,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411133000064,수인로,Suin-ro,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",서둔동,Seodun-dong,1,131
+411133000064,수인로,Suin-ro,02,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",구운동,Guun-dong,1,132
+411133000064,수인로,Suin-ro,03,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",입북동,Ipbuk-dong,1,140
+411133000064,수인로,Suin-ro,04,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",당수동,Dangsu-dong,1,141
+411133012001,덕영대로,Deogyeong-daero,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411133012001,덕영대로,Deogyeong-daero,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",세류동,Seryu-dong,1,126
+411133012001,덕영대로,Deogyeong-daero,02,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",곡반정동,Gokbanjeong-dong,1,136
+411133012001,덕영대로,Deogyeong-daero,03,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",권선동,Gwonseon-dong,1,137
+411133012002,동탄원천로,Dongtanwoncheon-ro,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411133012002,동탄원천로,Dongtanwoncheon-ro,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",권선동,Gwonseon-dong,1,137
+411133012003,매송고색로,Maesonggosaek-ro,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411133012003,매송고색로,Maesonggosaek-ro,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",평동,Pyeong-dong,1,127
+411133012003,매송고색로,Maesonggosaek-ro,02,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",고색동,Gosaek-dong,1,128
+411133012003,매송고색로,Maesonggosaek-ro,03,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",오목천동,Omokcheon-dong,1,129
+411133012004,삼천병마로,Samcheonbyeongma-ro,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411133012004,삼천병마로,Samcheonbyeongma-ro,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",오목천동,Omokcheon-dong,1,129
+411133012005,서부로,Seobu-ro,00,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",,,2,
+411133012005,서부로,Seobu-ro,01,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",고색동,Gosaek-dong,1,128
+411133012005,서부로,Seobu-ro,02,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",오목천동,Omokcheon-dong,1,129
+411133012005,서부로,Seobu-ro,03,경기도,Gyeonggi-do,"수원시 권선구","Gwonseon-gu, Suwon-si",구운동,Guun-dong,1,132
